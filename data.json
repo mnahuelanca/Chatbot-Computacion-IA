@@ -1,282 +1,270 @@
 {
   "data": [
-    {"id":1,"categoria":"historia","pregunta":"¿Qué es la computación?","respuesta":"Es la disciplina que estudia el procesamiento automático de información mediante computadoras.","keywords":["computacion"]},
-    {"id":2,"categoria":"historia","pregunta":"¿Qué es una computadora?","respuesta":"Es un dispositivo electrónico capaz de procesar datos siguiendo instrucciones.","keywords":["computadora"]},
-    {"id":3,"categoria":"historia","pregunta":"Definí computadora","respuesta":"Una computadora es una máquina que procesa datos y ejecuta instrucciones.","keywords":["computadora"]},
-    {"id":4,"categoria":"historia","pregunta":"¿Para qué sirve una computadora?","respuesta":"Sirve para procesar información, ejecutar programas y resolver problemas.","keywords":["computadora"]},
+    {"id":1,"categoria":"historia","pregunta":"¿Qué es la computación?","respuesta":"La computación es la disciplina que estudia el procesamiento automático de información mediante computadoras.","keywords":["computacion"]},
+    {"id":2,"categoria":"historia","pregunta":"¿Qué es una computadora?","respuesta":"Una computadora es un dispositivo electrónico capaz de procesar datos siguiendo instrucciones programadas.","keywords":["computadora"]},
+    {"id":3,"categoria":"historia","pregunta":"Definí computadora","respuesta":"Una computadora es una máquina que procesa datos, ejecuta instrucciones y produce resultados.","keywords":["computadora"]},
+    {"id":4,"categoria":"historia","pregunta":"¿Para qué sirve una computadora?","respuesta":"Una computadora sirve para procesar información, ejecutar programas y resolver problemas de forma automática.","keywords":["computadora"]},
 
-    {"id":5,"categoria":"historia","pregunta":"¿Quién fue Charles Babbage?","respuesta":"Fue un matemático que diseñó la máquina analítica.","keywords":["babbage"]},
-    {"id":6,"categoria":"historia","pregunta":"¿Qué hizo Babbage?","respuesta":"Diseñó el concepto de computadora programable.","keywords":["babbage"]},
+    {"id":5,"categoria":"historia","pregunta":"¿Quién fue Charles Babbage?","respuesta":"Charles Babbage fue un matemático británico del siglo XIX que diseñó la máquina analítica, considerado el precursor de la computadora moderna.","keywords":["babbage"]},
+    {"id":6,"categoria":"historia","pregunta":"¿Qué hizo Babbage?","respuesta":"Charles Babbage diseñó el concepto de computadora programable mecánica, sentando las bases de la computación moderna.","keywords":["babbage"]},
 
-    {"id":7,"categoria":"historia","pregunta":"¿Quién fue Ada Lovelace?","respuesta":"Fue la primera programadora de la historia.","keywords":["adalovelace"]},
-    {"id":8,"categoria":"historia","pregunta":"¿Qué hizo Ada Lovelace?","respuesta":"Escribió el primer algoritmo para una máquina.","keywords":["adalovelace"]},
+    {"id":7,"categoria":"historia","pregunta":"¿Quién fue Ada Lovelace?","respuesta":"Ada Lovelace fue una matemática británica del siglo XIX, considerada la primera programadora de la historia por escribir el primer algoritmo destinado a ser procesado por una máquina.","keywords":["adalovelace"]},
+    {"id":8,"categoria":"historia","pregunta":"¿Qué hizo Ada Lovelace?","respuesta":"Ada Lovelace escribió el primer algoritmo diseñado para ser ejecutado por una máquina, trabajando junto a Charles Babbage.","keywords":["adalovelace"]},
 
-    {"id":9,"categoria":"historia","pregunta":"¿Quién fue Alan Turing?","respuesta":"Fue un matemático clave en la computación moderna.","keywords":["turing"]},
-    {"id":10,"categoria":"historia","pregunta":"¿Qué es la máquina de Turing?","respuesta":"Es un modelo teórico de computación.","keywords":["turing"]},
-    {"id":11,"categoria":"historia","pregunta":"¿Qué es el test de Turing?","respuesta":"Es una prueba para evaluar si una máquina puede imitar inteligencia humana.","keywords":["turing"]},
+    {"id":9,"categoria":"historia","pregunta":"¿Quién fue Alan Turing?","respuesta":"Alan Turing fue un matemático y científico de la computación británico, considerado el padre de la informática moderna por sus aportes teóricos sobre computación e inteligencia artificial.","keywords":["turing"]},
+    {"id":10,"categoria":"historia","pregunta":"¿Qué es la máquina de Turing?","respuesta":"La máquina de Turing es un modelo teórico de computación propuesto por Alan Turing que define formalmente qué significa que un problema sea computable.","keywords":["turing"]},
+    {"id":11,"categoria":"historia","pregunta":"¿Qué es el test de Turing?","respuesta":"El test de Turing es una prueba propuesta por Alan Turing para evaluar si una máquina puede exhibir un comportamiento inteligente indistinguible del de un humano.","keywords":["turing"]},
 
-    {"id":12,"categoria":"historia","pregunta":"¿Qué fue ENIAC?","respuesta":"Una de las primeras computadoras electrónicas de propósito general.","keywords":["eniac"]},
-    {"id":13,"categoria":"historia","pregunta":"¿Qué fue Colossus?","respuesta":"Computadora usada en la Segunda Guerra Mundial.","keywords":["colossus"]},
+    {"id":12,"categoria":"historia","pregunta":"¿Qué fue ENIAC?","respuesta":"ENIAC fue una de las primeras computadoras electrónicas de propósito general, construida en 1945 en la Universidad de Pensilvania para cálculos militares.","keywords":["eniac"]},
+    {"id":13,"categoria":"historia","pregunta":"¿Qué fue Colossus?","respuesta":"Colossus fue una computadora electrónica construida por los británicos durante la Segunda Guerra Mundial para descifrar mensajes codificados alemanes.","keywords":["colossus"]},
 
-    {"id":14,"categoria":"hardware","pregunta":"¿Qué es hardware?","respuesta":"Son los componentes físicos de una computadora.","keywords":["hardware"]},
-    {"id":15,"categoria":"software","pregunta":"¿Qué es software?","respuesta":"Son los programas que ejecuta una computadora.","keywords":["software"]},
+    {"id":14,"categoria":"hardware","pregunta":"¿Qué es hardware?","respuesta":"El hardware son los componentes físicos de una computadora, como el procesador, la memoria, el disco duro y los periféricos.","keywords":["hardware"]},
+    {"id":15,"categoria":"software","pregunta":"¿Qué es software?","respuesta":"El software son los programas e instrucciones que ejecuta una computadora para realizar tareas específicas.","keywords":["software"]},
 
-    {"id":16,"categoria":"hardware","pregunta":"¿Qué es la CPU?","respuesta":"Es la unidad central de procesamiento.","keywords":["cpu"]},
-    {"id":17,"categoria":"hardware","pregunta":"¿Qué es un microprocesador?","respuesta":"Es un chip que contiene la CPU.","keywords":["cpu"]},
+    {"id":16,"categoria":"hardware","pregunta":"¿Qué es la CPU?","respuesta":"La CPU (Unidad Central de Procesamiento) es el componente principal de una computadora que ejecuta las instrucciones de los programas.","keywords":["cpu"]},
+    {"id":17,"categoria":"hardware","pregunta":"¿Qué es un microprocesador?","respuesta":"Un microprocesador es un chip integrado que contiene la CPU completa, combinando en un solo circuito todas las funciones de procesamiento central.","keywords":["cpu"]},
 
-    {"id":18,"categoria":"software","pregunta":"¿Qué es un sistema operativo?","respuesta":"Es el software que gestiona el hardware.","keywords":["os"]},
-    {"id":19,"categoria":"software","pregunta":"¿Qué hace un sistema operativo?","respuesta":"Administra recursos y permite ejecutar programas.","keywords":["os"]},
+    {"id":18,"categoria":"software","pregunta":"¿Qué es un sistema operativo?","respuesta":"Un sistema operativo es el software principal que gestiona el hardware de la computadora y permite la ejecución de otros programas.","keywords":["os"]},
+    {"id":19,"categoria":"software","pregunta":"¿Qué hace un sistema operativo?","respuesta":"Un sistema operativo administra los recursos del hardware, gestiona procesos, memoria y archivos, y permite ejecutar programas de forma ordenada.","keywords":["os"]},
 
-    {"id":20,"categoria":"software","pregunta":"¿Qué es un lenguaje de programación?","respuesta":"Lenguaje para escribir instrucciones.","keywords":["lenguaje"]},
-    {"id":21,"categoria":"software","pregunta":"¿Qué es programar?","respuesta":"Escribir instrucciones para una computadora.","keywords":["programar"]},
+    {"id":20,"categoria":"software","pregunta":"¿Qué es un lenguaje de programación?","respuesta":"Un lenguaje de programación es un sistema formal de notación que permite escribir instrucciones que una computadora puede entender y ejecutar.","keywords":["lenguaje"]},
+    {"id":21,"categoria":"software","pregunta":"¿Qué es programar?","respuesta":"Programar es el proceso de escribir instrucciones en un lenguaje de programación para que una computadora realice una tarea determinada.","keywords":["programar"]},
 
-    {"id":22,"categoria":"software","pregunta":"¿Qué es Python?","respuesta":"Lenguaje popular en IA.","keywords":["python"]},
-    {"id":23,"categoria":"software","pregunta":"¿Qué es Java?","respuesta":"Lenguaje orientado a objetos.","keywords":["java"]},
-    {"id":24,"categoria":"software","pregunta":"¿Qué es C?","respuesta":"Lenguaje base de muchos sistemas.","keywords":["c"]},
+    {"id":22,"categoria":"software","pregunta":"¿Qué es Python?","respuesta":"Python es un lenguaje de programación de alto nivel, de sintaxis simple y muy popular en inteligencia artificial, ciencia de datos y automatización.","keywords":["python"]},
+    {"id":23,"categoria":"software","pregunta":"¿Qué es Java?","respuesta":"Java es un lenguaje de programación orientado a objetos, multiplataforma, ampliamente usado en aplicaciones empresariales y desarrollo web.","keywords":["java"]},
+    {"id":24,"categoria":"software","pregunta":"¿Qué es C?","respuesta":"C es un lenguaje de programación de bajo nivel que sirve como base para muchos sistemas operativos y lenguajes modernos, conocido por su eficiencia y control del hardware.","keywords":["c"]},
 
-    {"id":25,"categoria":"ia","pregunta":"¿Qué es inteligencia artificial?","respuesta":"Tecnología que imita inteligencia humana.","keywords":["ia"]},
-    {"id":26,"categoria":"ia","pregunta":"Definí inteligencia artificial","respuesta":"Disciplina que desarrolla sistemas inteligentes.","keywords":["ia"]},
+    {"id":25,"categoria":"ia","pregunta":"¿Qué es inteligencia artificial?","respuesta":"La inteligencia artificial es la rama de la computación que desarrolla tecnologías capaces de imitar o superar capacidades cognitivas humanas como razonar, aprender o tomar decisiones.","keywords":["ia"]},
+    {"id":26,"categoria":"ia","pregunta":"Definí inteligencia artificial","respuesta":"La inteligencia artificial es la disciplina que diseña sistemas capaces de realizar tareas que normalmente requieren inteligencia humana.","keywords":["ia"]},
 
-    {"id":27,"categoria":"ia","pregunta":"¿Qué es machine learning?","respuesta":"IA que aprende de datos.","keywords":["ml"]},
-    {"id":28,"categoria":"ia","pregunta":"¿Qué es deep learning?","respuesta":"Uso de redes neuronales profundas.","keywords":["dl"]},
+    {"id":27,"categoria":"ia","pregunta":"¿Qué es machine learning?","respuesta":"El machine learning es una rama de la inteligencia artificial en la que los modelos aprenden patrones a partir de datos sin ser programados explícitamente para cada tarea.","keywords":["ml"]},
+    {"id":28,"categoria":"ia","pregunta":"¿Qué es deep learning?","respuesta":"El deep learning es una subrama del machine learning que utiliza redes neuronales artificiales con múltiples capas para aprender representaciones complejas de los datos.","keywords":["dl"]},
 
-    {"id":29,"categoria":"ia","pregunta":"¿Qué es una red neuronal?","respuesta":"Modelo inspirado en el cerebro.","keywords":["red"]},
-    {"id":30,"categoria":"ia","pregunta":"¿Para qué sirven las redes neuronales?","respuesta":"Para reconocer patrones en datos.","keywords":["red"]},
+    {"id":29,"categoria":"ia","pregunta":"¿Qué es una red neuronal?","respuesta":"Una red neuronal artificial es un modelo computacional inspirado en el funcionamiento del cerebro humano, compuesto por nodos interconectados que procesan información.","keywords":["red"]},
+    {"id":30,"categoria":"ia","pregunta":"¿Para qué sirven las redes neuronales?","respuesta":"Las redes neuronales sirven para reconocer patrones complejos en datos, siendo la base de aplicaciones como reconocimiento de imágenes, voz y texto.","keywords":["red"]},
 
-    {"id":31,"categoria":"ia","pregunta":"¿Qué es NLP?","respuesta":"Procesamiento de lenguaje natural.","keywords":["nlp"]},
-    {"id":32,"categoria":"ia","pregunta":"¿Qué es un chatbot?","respuesta":"Sistema que conversa con humanos.","keywords":["chatbot"]},
+    {"id":31,"categoria":"ia","pregunta":"¿Qué es NLP?","respuesta":"NLP (Procesamiento de Lenguaje Natural) es la rama de la inteligencia artificial que permite a las computadoras comprender, interpretar y generar lenguaje humano.","keywords":["nlp"]},
+    {"id":32,"categoria":"ia","pregunta":"¿Qué es un chatbot?","respuesta":"Un chatbot es un sistema de software diseñado para simular conversaciones con personas, respondiendo preguntas de forma automatizada.","keywords":["chatbot"]},
 
-    {"id":33,"categoria":"ia","pregunta":"¿Qué es un LLM?","respuesta":"Modelo de lenguaje grande.","keywords":["llm"]},
-    {"id":34,"categoria":"ia","pregunta":"¿Qué es un prompt?","respuesta":"Texto de entrada para IA.","keywords":["prompt"]},
+    {"id":33,"categoria":"ia","pregunta":"¿Qué es un LLM?","respuesta":"Un LLM (Large Language Model) es un modelo de inteligencia artificial de gran escala entrenado sobre enormes volúmenes de texto para generar y comprender lenguaje natural.","keywords":["llm"]},
+    {"id":34,"categoria":"ia","pregunta":"¿Qué es un prompt?","respuesta":"Un prompt es el texto de entrada que el usuario proporciona a un modelo de IA para obtener una respuesta o resultado específico.","keywords":["prompt"]},
 
-    {"id":35,"categoria":"datos","pregunta":"¿Qué es un dataset?","respuesta":"Conjunto de datos.","keywords":["dataset"]},
-    {"id":36,"categoria":"datos","pregunta":"¿Qué es JSON?","respuesta":"Formato de datos estructurado.","keywords":["json"]},
+    {"id":35,"categoria":"datos","pregunta":"¿Qué es un dataset?","respuesta":"Un dataset es un conjunto estructurado de datos utilizado para entrenar, validar o evaluar modelos de inteligencia artificial.","keywords":["dataset"]},
+    {"id":36,"categoria":"datos","pregunta":"¿Qué es JSON?","respuesta":"JSON (JavaScript Object Notation) es un formato de texto ligero para almacenar e intercambiar datos de forma estructurada, ampliamente usado en APIs y configuraciones.","keywords":["json"]},
 
-    {"id":37,"categoria":"datos","pregunta":"¿Qué es CSV?","respuesta":"Archivo separado por comas.","keywords":["csv"]},
-    {"id":38,"categoria":"datos","pregunta":"¿Qué es Big Data?","respuesta":"Datos masivos.","keywords":["bigdata"]},
+    {"id":37,"categoria":"datos","pregunta":"¿Qué es CSV?","respuesta":"CSV (Comma-Separated Values) es un formato de archivo de texto plano donde los datos se organizan en filas y columnas separadas por comas.","keywords":["csv"]},
+    {"id":38,"categoria":"datos","pregunta":"¿Qué es Big Data?","respuesta":"Big Data se refiere al manejo y análisis de volúmenes de datos tan masivos y complejos que los sistemas tradicionales no pueden procesarlos eficientemente.","keywords":["bigdata", "big", "data"]},
 
-    {"id":39,"categoria":"datos","pregunta":"¿Qué es un vector?","respuesta":"Lista de números.","keywords":["vector"]},
-    {"id":40,"categoria":"datos","pregunta":"¿Qué es embedding?","respuesta":"Representación numérica de texto.","keywords":["embedding"]},
+    {"id":39,"categoria":"datos","pregunta":"¿Qué es un vector?","respuesta":"En computación, un vector es una lista ordenada de números que representa datos de forma matemática, muy utilizada en álgebra lineal e inteligencia artificial.","keywords":["vector"]},
+    {"id":40,"categoria":"datos","pregunta":"¿Qué es embedding?","respuesta":"Un embedding es una representación numérica densa de datos como texto o imágenes, que captura su significado semántico en un espacio vectorial.","keywords":["embedding"]},
 
-    {"id":41,"categoria":"historia","pregunta":"¿Qué es internet?","respuesta":"Red global.","keywords":["internet"]},
-    {"id":42,"categoria":"historia","pregunta":"¿Qué es la web?","respuesta":"Sistema de páginas en internet.","keywords":["web"]},
+    {"id":41,"categoria":"historia","pregunta":"¿Qué es internet?","respuesta":"Internet es una red global de computadoras interconectadas que permite la comunicación y el intercambio de información a escala mundial.","keywords":["internet"]},
+    {"id":42,"categoria":"historia","pregunta":"¿Qué es la web?","respuesta":"La web (World Wide Web) es un sistema de páginas e información interconectadas a través de internet, accesible mediante navegadores.","keywords":["web"]},
 
-    {"id":43,"categoria":"software","pregunta":"¿Qué es HTML?","respuesta":"Lenguaje de páginas web.","keywords":["html"]},
-    {"id":44,"categoria":"software","pregunta":"¿Qué es una API?","respuesta":"Interfaz de comunicación entre sistemas.","keywords":["api"]},
+    {"id":43,"categoria":"software","pregunta":"¿Qué es HTML?","respuesta":"HTML (HyperText Markup Language) es el lenguaje estándar para crear y estructurar páginas web mediante etiquetas que definen el contenido.","keywords":["html"]},
+    {"id":44,"categoria":"software","pregunta":"¿Qué es una API?","respuesta":"Una API (Interfaz de Programación de Aplicaciones) es un conjunto de reglas que permite que diferentes sistemas o aplicaciones se comuniquen entre sí.","keywords":["api"]},
 
-    {"id":45,"categoria":"ia","pregunta":"¿Qué es visión por computadora?","respuesta":"IA que analiza imágenes.","keywords":["vision"]},
-    {"id":46,"categoria":"ia","pregunta":"¿Qué es robótica?","respuesta":"IA aplicada a máquinas físicas.","keywords":["robot"]},
+    {"id":45,"categoria":"ia","pregunta":"¿Qué es visión por computadora?","respuesta":"La visión por computadora es la rama de la inteligencia artificial que permite a las máquinas interpretar y analizar imágenes y videos del mundo real.","keywords":["vision", "computadora"]},
+    {"id":46,"categoria":"ia","pregunta":"¿Qué es robótica?","respuesta":"La robótica es la disciplina que diseña y construye robots, integrando inteligencia artificial para que puedan realizar tareas físicas de forma autónoma.","keywords":["robot", "robotica"]},
 
-    {"id":47,"categoria":"ia","pregunta":"¿Qué es GPT?","respuesta":"Modelo de lenguaje basado en transformers.","keywords":["gpt"]},
-    {"id":48,"categoria":"ia","pregunta":"¿Qué es un token?","respuesta":"Unidad de texto en IA.","keywords":["token"]},
+    {"id":47,"categoria":"ia","pregunta":"¿Qué es GPT?","respuesta":"GPT (Generative Pre-trained Transformer) es una familia de modelos de lenguaje de gran escala desarrollados por OpenAI, basados en la arquitectura transformer.","keywords":["gpt"]},
+    {"id":48,"categoria":"ia","pregunta":"¿Qué es un token?","respuesta":"En inteligencia artificial, un token es la unidad mínima de texto que procesa un modelo de lenguaje, generalmente una palabra o fragmento de palabra.","keywords":["token"]},
 
-    {"id":49,"categoria":"ia","pregunta":"¿Qué es ética en IA?","respuesta":"Uso responsable de IA.","keywords":["etica"]},
-    {"id":50,"categoria":"ia","pregunta":"¿Qué es sesgo en IA?","respuesta":"Errores por datos.","keywords":["bias"]},
+    {"id":49,"categoria":"ia","pregunta":"¿Qué es ética en IA?","respuesta":"La ética en IA es el conjunto de principios y marcos que guían el desarrollo y uso responsable de sistemas de inteligencia artificial, considerando impacto social, equidad y transparencia.","keywords":["etica", "ia"]},
+    {"id":50,"categoria":"ia","pregunta":"¿Qué es sesgo en IA?","respuesta":"El sesgo en IA son errores sistemáticos en los modelos causados por datos de entrenamiento que no representan correctamente la realidad, llevando a resultados injustos o incorrectos.","keywords":["bias", "sesgo"]},
 
-    {"id":51,"categoria":"historia","pregunta":"¿Qué son generaciones de computadoras?","respuesta":"Etapas evolutivas.","keywords":["generaciones"]},
-    {"id":52,"categoria":"historia","pregunta":"¿Cuántas generaciones hay?","respuesta":"Cinco.","keywords":["generaciones"]},
+    {"id":51,"categoria":"historia","pregunta":"¿Qué son generaciones de computadoras?","respuesta":"Las generaciones de computadoras son las etapas evolutivas del desarrollo tecnológico de las computadoras, clasificadas según los componentes predominantes de cada época.","keywords":["generaciones"]},
+    {"id":52,"categoria":"historia","pregunta":"¿Cuántas generaciones hay?","respuesta":"Se reconocen cinco generaciones de computadoras, desde los tubos de vacío hasta la inteligencia artificial.","keywords":["generaciones"]},
 
-    
-    {"id":53,"categoria":"historia","pregunta":"Explicá qué es computación","respuesta":"Es el procesamiento automático de información.","keywords":["computacion"]},
-    {"id":54,"categoria":"historia","pregunta":"¿Qué hace una computadora?","respuesta":"Procesa datos.","keywords":["computadora"]},
-    {"id":55,"categoria":"historia","pregunta":"¿Qué significa computar?","respuesta":"Procesar información.","keywords":["computar"]},
+    {"id":53,"categoria":"historia","pregunta":"Explicá qué es computación","respuesta":"La computación es el procesamiento automático de información, abarcando desde el diseño de algoritmos hasta la construcción de sistemas que resuelven problemas.","keywords":["computacion"]},
+    {"id":54,"categoria":"historia","pregunta":"¿Qué hace una computadora?","respuesta":"Una computadora procesa datos de entrada siguiendo instrucciones programadas y produce resultados de salida.","keywords":["computadora"]},
+    {"id":55,"categoria":"historia","pregunta":"¿Qué significa computar?","respuesta":"Computar significa procesar información de forma sistemática y automatizada mediante operaciones lógicas y matemáticas.","keywords":["computar"]},
 
-    {"id":56,"categoria":"ia","pregunta":"¿Qué hace la IA?","respuesta":"Automatiza tareas inteligentes.","keywords":["ia"]},
-    {"id":57,"categoria":"ia","pregunta":"¿Para qué sirve la IA?","respuesta":"Para resolver problemas complejos.","keywords":["ia"]},
-    {"id":58,"categoria":"ia","pregunta":"Aplicaciones de IA","respuesta":"Chatbots, visión, recomendación.","keywords":["ia"]},
+    {"id":56,"categoria":"ia","pregunta":"¿Qué hace la IA?","respuesta":"La inteligencia artificial automatiza tareas que requieren razonamiento, como reconocer imágenes, entender texto o tomar decisiones.","keywords":["ia"]},
+    {"id":57,"categoria":"ia","pregunta":"¿Para qué sirve la IA?","respuesta":"La inteligencia artificial sirve para resolver problemas complejos de forma automatizada en áreas como medicina, educación, industria y comunicación.","keywords":["ia"]},
+    {"id":58,"categoria":"ia","pregunta":"Aplicaciones de IA","respuesta":"Algunas aplicaciones de inteligencia artificial incluyen chatbots, visión por computadora, sistemas de recomendación, diagnóstico médico y vehículos autónomos.","keywords":["ia"]},
 
-    {"id":59,"categoria":"ia","pregunta":"¿Qué es aprendizaje supervisado?","respuesta":"Aprende con datos etiquetados.","keywords":["ml"]},
-    {"id":60,"categoria":"ia","pregunta":"¿Qué es aprendizaje no supervisado?","respuesta":"Aprende sin etiquetas.","keywords":["ml"]},
+    {"id":59,"categoria":"ia","pregunta":"¿Qué es aprendizaje supervisado?","respuesta":"El aprendizaje supervisado es un tipo de machine learning donde el modelo se entrena con datos etiquetados, aprendiendo la relación entre entradas y salidas esperadas.","keywords":["ml"]},
+    {"id":60,"categoria":"ia","pregunta":"¿Qué es aprendizaje no supervisado?","respuesta":"El aprendizaje no supervisado es un tipo de machine learning donde el modelo encuentra patrones en datos sin etiquetas previas.","keywords":["ml"]},
 
-    {"id":61,"categoria":"hardware","pregunta":"¿Qué es memoria RAM?","respuesta":"Memoria temporal.","keywords":["ram"]},
-    {"id":62,"categoria":"hardware","pregunta":"¿Qué es almacenamiento?","respuesta":"Donde se guardan datos.","keywords":["storage"]},
+    {"id":61,"categoria":"hardware","pregunta":"¿Qué es memoria RAM?","respuesta":"La memoria RAM (Random Access Memory) es la memoria temporal de una computadora que almacena los datos e instrucciones en uso mientras el sistema está encendido.","keywords":["ram"]},
+    {"id":62,"categoria":"hardware","pregunta":"¿Qué es almacenamiento?","respuesta":"El almacenamiento es el componente donde se guardan los datos de forma permanente, como discos duros o unidades SSD.","keywords":["storage"]},
 
-    {"id":63,"categoria":"software","pregunta":"¿Qué es backend?","respuesta":"Parte lógica del sistema.","keywords":["backend"]},
-    {"id":64,"categoria":"software","pregunta":"¿Qué es frontend?","respuesta":"Interfaz de usuario.","keywords":["frontend"]},
+    {"id":63,"categoria":"software","pregunta":"¿Qué es backend?","respuesta":"El backend es la parte lógica y de servidor de una aplicación, responsable del procesamiento de datos, la lógica de negocio y la comunicación con bases de datos.","keywords":["backend"]},
+    {"id":64,"categoria":"software","pregunta":"¿Qué es frontend?","respuesta":"El frontend es la parte visual e interactiva de una aplicación con la que el usuario interactúa directamente en su pantalla.","keywords":["frontend"]},
 
-    {"id":65,"categoria":"ia","pregunta":"¿Qué es inferencia en IA?","respuesta":"Uso del modelo entrenado.","keywords":["ia"]},
-    {"id":66,"categoria":"ia","pregunta":"¿Qué es entrenamiento en IA?","respuesta":"Proceso de aprendizaje del modelo.","keywords":["ia"]},
+    {"id":65,"categoria":"ia","pregunta":"¿Qué es inferencia en IA?","respuesta":"La inferencia en IA es el proceso de usar un modelo ya entrenado para hacer predicciones o generar respuestas a partir de nuevos datos.","keywords":["ia"]},
+    {"id":66,"categoria":"ia","pregunta":"¿Qué es entrenamiento en IA?","respuesta":"El entrenamiento en IA es el proceso por el cual un modelo ajusta sus parámetros internos al aprender patrones a partir de un conjunto de datos.","keywords":["ia"]},
 
-    {"id":67,"categoria":"datos","pregunta":"¿Qué es base de datos?","respuesta":"Sistema de almacenamiento de datos.","keywords":["db"]},
-    {"id":68,"categoria":"datos","pregunta":"¿Qué es SQL?","respuesta":"Lenguaje de bases de datos.","keywords":["sql"]},
+    {"id":67,"categoria":"datos","pregunta":"¿Qué es base de datos?","respuesta":"Una base de datos es un sistema organizado para almacenar, gestionar y recuperar grandes volúmenes de información de forma eficiente.","keywords":["db"]},
+    {"id":68,"categoria":"datos","pregunta":"¿Qué es SQL?","respuesta":"SQL (Structured Query Language) es el lenguaje estándar para consultar y manipular bases de datos relacionales.","keywords":["sql"]},
 
-    {"id":69,"categoria":"ia","pregunta":"¿Qué es automatización?","respuesta":"Uso de máquinas para tareas.","keywords":["auto"]},
-    {"id":70,"categoria":"ia","pregunta":"¿Qué es analítica?","respuesta":"Interpretación de datos.","keywords":["data"]},
+    {"id":69,"categoria":"ia","pregunta":"¿Qué es automatización?","respuesta":"La automatización es el uso de tecnología o máquinas para realizar tareas repetitivas sin intervención humana continua.","keywords":["auto"]},
+    {"id":70,"categoria":"ia","pregunta":"¿Qué es analítica?","respuesta":"La analítica es el proceso de interpretar datos para extraer conclusiones y apoyar la toma de decisiones.","keywords":["data"]},
 
-    {"id":71,"categoria":"ia","pregunta":"¿Qué es ciencia de datos?","respuesta":"Disciplina de análisis de datos.","keywords":["ds"]},
-    {"id":72,"categoria":"ia","pregunta":"¿Qué es un modelo?","respuesta":"Representación matemática.","keywords":["modelo"]},
+    {"id":71,"categoria":"ia","pregunta":"¿Qué es ciencia de datos?","respuesta":"La ciencia de datos es una disciplina que combina estadística, programación e inteligencia artificial para extraer conocimiento útil de grandes volúmenes de datos.","keywords":["ds"]},
+    {"id":72,"categoria":"ia","pregunta":"¿Qué es un modelo?","respuesta":"En inteligencia artificial, un modelo es una representación matemática entrenada para hacer predicciones o tomar decisiones basadas en datos.","keywords":["modelo"]},
 
-    
-    {"id":73,"categoria":"ia","pregunta":"Explicá machine learning","respuesta":"Aprendizaje automático basado en datos.","keywords":["ml"]},
-    {"id":74,"categoria":"ia","pregunta":"Definí deep learning","respuesta":"Redes neuronales profundas.","keywords":["dl"]},
-    {"id":75,"categoria":"ia","pregunta":"¿Qué son modelos predictivos?","respuesta":"Modelos que predicen resultados.","keywords":["ml"]},
+    {"id":73,"categoria":"ia","pregunta":"Explicá machine learning","respuesta":"El machine learning es el aprendizaje automático que permite a los sistemas mejorar su rendimiento en tareas específicas a partir de la experiencia con datos.","keywords":["ml"]},
+    {"id":74,"categoria":"ia","pregunta":"Definí deep learning","respuesta":"El deep learning es la técnica de machine learning que emplea redes neuronales con muchas capas para aprender representaciones jerárquicas de los datos.","keywords":["dl"]},
+    {"id":75,"categoria":"ia","pregunta":"¿Qué son modelos predictivos?","respuesta":"Los modelos predictivos son algoritmos de machine learning que estiman resultados futuros basándose en patrones encontrados en datos históricos.","keywords":["ml"]},
 
-    {"id":76,"categoria":"historia","pregunta":"¿Cuándo nació la computación?","respuesta":"Siglo XIX con Babbage.","keywords":["historia"]},
-    {"id":77,"categoria":"historia","pregunta":"¿Qué marcó el inicio de IA?","respuesta":"Conferencia Dartmouth 1956.","keywords":["ia"]},
+    {"id":76,"categoria":"historia","pregunta":"¿Cuándo nació la computación?","respuesta":"La computación moderna nació en el siglo XIX con los trabajos de Charles Babbage, consolidándose en el siglo XX con las primeras computadoras electrónicas.","keywords":["historia"]},
+    {"id":77,"categoria":"historia","pregunta":"¿Qué marcó el inicio de IA?","respuesta":"El inicio formal de la inteligencia artificial se marcó en la Conferencia de Dartmouth de 1956, donde se acuñó el término y se definió la disciplina.","keywords":["ia"]},
 
-    {"id":78,"categoria":"ia","pregunta":"¿Qué es Dartmouth?","respuesta":"Evento fundacional de IA.","keywords":["ia"]},
-    {"id":79,"categoria":"ia","pregunta":"¿Qué pasó en 1956?","respuesta":"Nacimiento formal de IA.","keywords":["ia"]},
+    {"id":78,"categoria":"ia","pregunta":"¿Qué es Dartmouth?","respuesta":"La Conferencia de Dartmouth de 1956 es el evento fundacional de la inteligencia artificial, donde se reunieron los principales investigadores del área y se estableció el campo.","keywords":["ia"]},
+    {"id":79,"categoria":"ia","pregunta":"¿Qué pasó en 1956?","respuesta":"En 1956 tuvo lugar la Conferencia de Dartmouth, considerada el nacimiento formal de la inteligencia artificial como disciplina científica.","keywords":["ia"]},
 
-    {"id":80,"categoria":"ia","pregunta":"¿Qué es un agente inteligente?","respuesta":"Sistema que percibe y actúa.","keywords":["ia"]},
+    {"id":80,"categoria":"ia","pregunta":"¿Qué es un agente inteligente?","respuesta":"Un agente inteligente es un sistema de IA que percibe su entorno mediante sensores y actúa sobre él de forma autónoma para alcanzar objetivos.","keywords":["ia"]},
 
-    
-    {"id":81,"categoria":"ia","pregunta":"¿Qué es un algoritmo?","respuesta":"Conjunto de pasos para resolver problemas.","keywords":["algoritmo"]},
-    {"id":82,"categoria":"ia","pregunta":"Definí algoritmo","respuesta":"Secuencia de instrucciones.","keywords":["algoritmo"]},
+    {"id":81,"categoria":"ia","pregunta":"¿Qué es un algoritmo?","respuesta":"Un algoritmo es un conjunto finito y ordenado de pasos o instrucciones que resuelven un problema o realizan una tarea específica.","keywords":["algoritmo"]},
+    {"id":82,"categoria":"ia","pregunta":"Definí algoritmo","respuesta":"Un algoritmo es una secuencia de instrucciones bien definidas que, seguidas en orden, producen un resultado o resuelven un problema.","keywords":["algoritmo"]},
 
-    {"id":83,"categoria":"hardware","pregunta":"¿Qué es GPU?","respuesta":"Procesador gráfico.","keywords":["gpu"]},
-    {"id":84,"categoria":"hardware","pregunta":"¿Para qué sirve GPU?","respuesta":"Procesar gráficos y IA.","keywords":["gpu"]},
+    {"id":83,"categoria":"hardware","pregunta":"¿Qué es GPU?","respuesta":"Una GPU (Unidad de Procesamiento Gráfico) es un procesador especializado en realizar miles de operaciones en paralelo, fundamental para gráficos y entrenamiento de modelos de IA.","keywords":["gpu"]},
+    {"id":84,"categoria":"hardware","pregunta":"¿Para qué sirve GPU?","respuesta":"Una GPU sirve para procesar gráficos en tiempo real y, en inteligencia artificial, para acelerar el entrenamiento de modelos mediante cómputo paralelo masivo.","keywords":["gpu"]},
 
-    {"id":85,"categoria":"ia","pregunta":"¿Qué es transformers?","respuesta":"Arquitectura de modelos modernos.","keywords":["ia"]},
-    {"id":86,"categoria":"ia","pregunta":"¿Para qué sirven transformers?","respuesta":"Procesar lenguaje natural.","keywords":["ia"]},
+    {"id":85,"categoria":"ia","pregunta":"¿Qué es transformers?","respuesta":"La arquitectura transformer es el modelo de IA moderno que usa mecanismos de atención para procesar secuencias de datos, siendo la base de modelos como GPT y BERT.","keywords":["ia"]},
+    {"id":86,"categoria":"ia","pregunta":"¿Para qué sirven transformers?","respuesta":"Los transformers sirven para procesar lenguaje natural de forma eficiente, siendo la arquitectura detrás de los principales modelos de lenguaje actuales.","keywords":["ia"]},
 
-    {"id":87,"categoria":"ia","pregunta":"¿Qué es overfitting?","respuesta":"Modelo que memoriza.","keywords":["ml"]},
-    {"id":88,"categoria":"ia","pregunta":"¿Qué es underfitting?","respuesta":"Modelo que no aprende.","keywords":["ml"]},
+    {"id":87,"categoria":"ia","pregunta":"¿Qué es overfitting?","respuesta":"El overfitting ocurre cuando un modelo de machine learning memoriza los datos de entrenamiento en lugar de generalizar, fallando con datos nuevos.","keywords":["ml"]},
+    {"id":88,"categoria":"ia","pregunta":"¿Qué es underfitting?","respuesta":"El underfitting ocurre cuando un modelo de machine learning es demasiado simple y no logra aprender los patrones relevantes de los datos.","keywords":["ml"]},
 
-    {"id":89,"categoria":"ia","pregunta":"¿Qué es validación?","respuesta":"Evaluar modelo.","keywords":["ml"]},
-    {"id":90,"categoria":"ia","pregunta":"¿Qué es testeo?","respuesta":"Prueba final del modelo.","keywords":["ml"]},
+    {"id":89,"categoria":"ia","pregunta":"¿Qué es validación?","respuesta":"La validación es el proceso de evaluar el rendimiento de un modelo de machine learning con datos que no fueron usados en el entrenamiento.","keywords":["ml"]},
+    {"id":90,"categoria":"ia","pregunta":"¿Qué es testeo?","respuesta":"El testeo es la prueba final de un modelo de machine learning con un conjunto de datos independiente para medir su rendimiento real.","keywords":["ml"]},
 
-    
-    {"id":91,"categoria":"ia","pregunta":"¿Qué es accuracy?","respuesta":"Precisión del modelo.","keywords":["ml"]},
-    {"id":92,"categoria":"ia","pregunta":"¿Qué es precisión?","respuesta":"Exactitud de predicción.","keywords":["ml"]},
+    {"id":91,"categoria":"ia","pregunta":"¿Qué es accuracy?","respuesta":"La accuracy (exactitud) es la métrica que mide el porcentaje de predicciones correctas de un modelo sobre el total de predicciones realizadas.","keywords":["ml"]},
+    {"id":92,"categoria":"ia","pregunta":"¿Qué es precisión?","respuesta":"La precisión en machine learning mide qué proporción de los casos predichos como positivos son realmente positivos.","keywords":["ml"]},
 
-    {"id":93,"categoria":"ia","pregunta":"¿Qué es recall?","respuesta":"Capacidad de detectar positivos.","keywords":["ml"]},
-    {"id":94,"categoria":"ia","pregunta":"¿Qué es F1 score?","respuesta":"Media de precisión y recall.","keywords":["ml"]},
+    {"id":93,"categoria":"ia","pregunta":"¿Qué es recall?","respuesta":"El recall es la métrica que mide la capacidad de un modelo para detectar todos los casos positivos reales dentro del conjunto de datos.","keywords":["ml"]},
+    {"id":94,"categoria":"ia","pregunta":"¿Qué es F1 score?","respuesta":"El F1 score es la media armónica entre precisión y recall, una métrica útil cuando hay clases desbalanceadas en los datos.","keywords":["ml"]},
 
-    {"id":95,"categoria":"ia","pregunta":"¿Qué es clustering?","respuesta":"Agrupamiento de datos.","keywords":["ml"]},
-    {"id":96,"categoria":"ia","pregunta":"¿Qué es clasificación?","respuesta":"Asignar etiquetas.","keywords":["ml"]},
+    {"id":95,"categoria":"ia","pregunta":"¿Qué es clustering?","respuesta":"El clustering es una técnica de aprendizaje no supervisado que agrupa datos similares entre sí sin necesidad de etiquetas previas.","keywords":["ml"]},
+    {"id":96,"categoria":"ia","pregunta":"¿Qué es clasificación?","respuesta":"La clasificación es una tarea de machine learning que consiste en asignar una etiqueta o categoría a cada dato de entrada.","keywords":["ml"]},
 
-    {"id":97,"categoria":"ia","pregunta":"¿Qué es regresión?","respuesta":"Predicción numérica.","keywords":["ml"]},
-    {"id":98,"categoria":"ia","pregunta":"¿Qué es feature?","respuesta":"Variable de datos.","keywords":["ml"]},
+    {"id":97,"categoria":"ia","pregunta":"¿Qué es regresión?","respuesta":"La regresión es una técnica de machine learning para predecir valores numéricos continuos a partir de variables de entrada.","keywords":["ml"]},
+    {"id":98,"categoria":"ia","pregunta":"¿Qué es feature?","respuesta":"Una feature (característica) es una variable de entrada individual que el modelo de machine learning utiliza para aprender y hacer predicciones.","keywords":["ml"]},
 
-    {"id":99,"categoria":"ia","pregunta":"¿Qué es feature engineering?","respuesta":"Creación de variables.","keywords":["ml"]},
-    {"id":100,"categoria":"ia","pregunta":"¿Qué es pipeline?","respuesta":"Flujo de procesamiento.","keywords":["ml"]},
+    {"id":99,"categoria":"ia","pregunta":"¿Qué es feature engineering?","respuesta":"El feature engineering es el proceso de crear, transformar o seleccionar las variables más relevantes del dataset para mejorar el rendimiento del modelo.","keywords":["ml"]},
+    {"id":100,"categoria":"ia","pregunta":"¿Qué es pipeline?","respuesta":"Un pipeline de machine learning es una secuencia automatizada de pasos que incluye preprocesamiento de datos, entrenamiento y evaluación del modelo.","keywords":["ml"]},
 
-    
-    {"id":101,"categoria":"ia","pregunta":"¿Qué es inferencia en tiempo real?","respuesta":"Respuesta inmediata del modelo.","keywords":["ia"]},
-    {"id":102,"categoria":"ia","pregunta":"¿Qué es batch?","respuesta":"Procesamiento por lotes.","keywords":["ia"]},
+    {"id":101,"categoria":"ia","pregunta":"¿Qué es inferencia en tiempo real?","respuesta":"La inferencia en tiempo real es la capacidad de un modelo de IA para generar respuestas o predicciones de forma inmediata ante nuevas entradas.","keywords":["ia"]},
+    {"id":102,"categoria":"ia","pregunta":"¿Qué es batch?","respuesta":"El procesamiento por batch (lotes) consiste en ejecutar predicciones o cálculos sobre un grupo de datos al mismo tiempo en lugar de uno por uno.","keywords":["ia"]},
 
-    {"id":103,"categoria":"ia","pregunta":"¿Qué es fine tuning?","respuesta":"Ajuste de modelo.","keywords":["ia"]},
-    {"id":104,"categoria":"ia","pregunta":"¿Qué es preentrenamiento?","respuesta":"Entrenamiento inicial.","keywords":["ia"]},
+    {"id":103,"categoria":"ia","pregunta":"¿Qué es fine tuning?","respuesta":"El fine tuning es el proceso de ajustar un modelo preentrenado con datos específicos de una tarea para mejorar su rendimiento en ese dominio concreto.","keywords":["ia"]},
+    {"id":104,"categoria":"ia","pregunta":"¿Qué es preentrenamiento?","respuesta":"El preentrenamiento es la fase inicial en la que un modelo de IA aprende representaciones generales a partir de grandes volúmenes de datos antes de ser ajustado.","keywords":["ia"]},
 
-    {"id":105,"categoria":"ia","pregunta":"¿Qué es dataset de entrenamiento?","respuesta":"Datos para entrenar.","keywords":["data"]},
-    {"id":106,"categoria":"ia","pregunta":"¿Qué es dataset de prueba?","respuesta":"Datos para evaluar.","keywords":["data"]},
+    {"id":105,"categoria":"ia","pregunta":"¿Qué es dataset de entrenamiento?","respuesta":"El dataset de entrenamiento es el conjunto de datos que se usa para que el modelo aprenda los patrones y ajuste sus parámetros.","keywords":["data"]},
+    {"id":106,"categoria":"ia","pregunta":"¿Qué es dataset de prueba?","respuesta":"El dataset de prueba es el conjunto de datos reservado para evaluar el rendimiento final del modelo de forma imparcial.","keywords":["data"]},
 
-    {"id":107,"categoria":"ia","pregunta":"¿Qué es data labeling?","respuesta":"Etiquetado de datos.","keywords":["data"]},
-    {"id":108,"categoria":"ia","pregunta":"¿Qué es data cleaning?","respuesta":"Limpieza de datos.","keywords":["data"]},
+    {"id":107,"categoria":"ia","pregunta":"¿Qué es data labeling?","respuesta":"El data labeling es el proceso de anotar o etiquetar datos manualmente para que puedan ser usados en el entrenamiento supervisado de modelos.","keywords":["data"]},
+    {"id":108,"categoria":"ia","pregunta":"¿Qué es data cleaning?","respuesta":"El data cleaning es el proceso de detectar y corregir errores, valores faltantes o inconsistencias en un dataset antes de usarlo para entrenar modelos.","keywords":["data"]},
 
-    {"id":109,"categoria":"ia","pregunta":"¿Qué es data augmentation?","respuesta":"Aumentar datos.","keywords":["data"]},
-    {"id":110,"categoria":"ia","pregunta":"¿Qué es feature scaling?","respuesta":"Escalar datos.","keywords":["data"]},
+    {"id":109,"categoria":"ia","pregunta":"¿Qué es data augmentation?","respuesta":"La data augmentation es una técnica para aumentar artificialmente el tamaño del dataset generando variaciones de los datos existentes, muy común en visión por computadora.","keywords":["data"]},
+    {"id":110,"categoria":"ia","pregunta":"¿Qué es feature scaling?","respuesta":"El feature scaling es la normalización o estandarización de los valores de las variables para que estén en rangos comparables y el modelo aprenda mejor.","keywords":["data"]},
 
-    
-    {"id":111,"categoria":"ia","pregunta":"¿Qué es modelo supervisado?","respuesta":"Modelo con etiquetas.","keywords":["ml"]},
-    {"id":112,"categoria":"ia","pregunta":"¿Qué es modelo no supervisado?","respuesta":"Modelo sin etiquetas.","keywords":["ml"]},
+    {"id":111,"categoria":"ia","pregunta":"¿Qué es modelo supervisado?","respuesta":"Un modelo supervisado es aquel que se entrena con datos etiquetados, aprendiendo la relación entre las entradas y sus salidas conocidas.","keywords":["ml"]},
+    {"id":112,"categoria":"ia","pregunta":"¿Qué es modelo no supervisado?","respuesta":"Un modelo no supervisado es aquel que aprende patrones en datos sin usar etiquetas, descubriendo estructura oculta en los datos por sí mismo.","keywords":["ml"]},
 
-    {"id":113,"categoria":"ia","pregunta":"¿Qué es modelo semisupervisado?","respuesta":"Mezcla de ambos.","keywords":["ml"]},
-    {"id":114,"categoria":"ia","pregunta":"¿Qué es reinforcement learning?","respuesta":"Aprendizaje por recompensa.","keywords":["ml"]},
+    {"id":113,"categoria":"ia","pregunta":"¿Qué es modelo semisupervisado?","respuesta":"Un modelo semisupervisado combina una pequeña cantidad de datos etiquetados con una gran cantidad de datos sin etiquetar durante el entrenamiento.","keywords":["ml"]},
+    {"id":114,"categoria":"ia","pregunta":"¿Qué es reinforcement learning?","respuesta":"El reinforcement learning es un tipo de machine learning donde un agente aprende a tomar decisiones mediante prueba y error, recibiendo recompensas o penalizaciones.","keywords":["ml"]},
 
-    {"id":115,"categoria":"ia","pregunta":"¿Qué es reward?","respuesta":"Recompensa en RL.","keywords":["ml"]},
-    {"id":116,"categoria":"ia","pregunta":"¿Qué es política en RL?","respuesta":"Estrategia del agente.","keywords":["ml"]},
+    {"id":115,"categoria":"ia","pregunta":"¿Qué es reward?","respuesta":"En reinforcement learning, el reward (recompensa) es la señal numérica que recibe el agente para indicar qué tan buena fue su acción en un momento dado.","keywords":["ml"]},
+    {"id":116,"categoria":"ia","pregunta":"¿Qué es política en RL?","respuesta":"En reinforcement learning, la política es la estrategia que define qué acción debe tomar el agente en cada estado del entorno.","keywords":["ml"]},
 
-    {"id":117,"categoria":"ia","pregunta":"¿Qué es entorno en RL?","respuesta":"Contexto del agente.","keywords":["ml"]},
-    {"id":118,"categoria":"ia","pregunta":"¿Qué es estado?","respuesta":"Situación actual.","keywords":["ml"]},
+    {"id":117,"categoria":"ia","pregunta":"¿Qué es entorno en RL?","respuesta":"En reinforcement learning, el entorno es el contexto o sistema con el que interactúa el agente para aprender mediante recompensas y penalizaciones.","keywords":["ml"]},
+    {"id":118,"categoria":"ia","pregunta":"¿Qué es estado?","respuesta":"En reinforcement learning, el estado es la representación de la situación actual del entorno que percibe el agente para decidir su próxima acción.","keywords":["ml"]},
 
-    {"id":119,"categoria":"ia","pregunta":"¿Qué es acción?","respuesta":"Decisión del agente.","keywords":["ml"]},
-    {"id":120,"categoria":"ia","pregunta":"¿Qué es episodio?","respuesta":"Secuencia en RL.","keywords":["ml"]},
+    {"id":119,"categoria":"ia","pregunta":"¿Qué es acción?","respuesta":"En reinforcement learning, una acción es cada decisión que toma el agente para interactuar con el entorno y modificar su estado.","keywords":["ml"]},
+    {"id":120,"categoria":"ia","pregunta":"¿Qué es episodio?","respuesta":"En reinforcement learning, un episodio es una secuencia completa de interacciones entre el agente y el entorno, desde el estado inicial hasta el final.","keywords":["ml"]},
 
-    
-    {"id":121,"categoria":"ia","pregunta":"¿Qué es bias en modelos?","respuesta":"Error sistemático.","keywords":["ml"]},
-    {"id":122,"categoria":"ia","pregunta":"¿Qué es varianza?","respuesta":"Variabilidad del modelo.","keywords":["ml"]},
+    {"id":121,"categoria":"ia","pregunta":"¿Qué es bias en modelos?","respuesta":"El bias en modelos de machine learning es el error sistemático que ocurre cuando el modelo tiene suposiciones incorrectas sobre los datos, generando predicciones consistentemente equivocadas.","keywords":["ml"]},
+    {"id":122,"categoria":"ia","pregunta":"¿Qué es varianza?","respuesta":"La varianza en machine learning es la sensibilidad del modelo a las fluctuaciones en los datos de entrenamiento, lo que puede llevar a overfitting.","keywords":["ml"]},
 
-    {"id":123,"categoria":"ia","pregunta":"¿Qué es tradeoff bias-varianza?","respuesta":"Balance entre ambos.","keywords":["ml"]},
-    {"id":124,"categoria":"ia","pregunta":"¿Qué es regularización?","respuesta":"Evitar overfitting.","keywords":["ml"]},
+    {"id":123,"categoria":"ia","pregunta":"¿Qué es tradeoff bias-varianza?","respuesta":"El tradeoff bias-varianza es el equilibrio que debe encontrar un modelo de machine learning entre sesgo (simplicidad excesiva) y varianza (sobreajuste a los datos).","keywords":["ml"]},
+    {"id":124,"categoria":"ia","pregunta":"¿Qué es regularización?","respuesta":"La regularización es una técnica que penaliza la complejidad del modelo durante el entrenamiento para evitar el overfitting y mejorar la generalización.","keywords":["ml"]},
 
-    {"id":125,"categoria":"ia","pregunta":"¿Qué es dropout?","respuesta":"Técnica de regularización.","keywords":["ml"]},
-    {"id":126,"categoria":"ia","pregunta":"¿Qué es batch size?","respuesta":"Cantidad de datos por iteración.","keywords":["ml"]},
+    {"id":125,"categoria":"ia","pregunta":"¿Qué es dropout?","respuesta":"El dropout es una técnica de regularización en redes neuronales que desactiva aleatoriamente neuronas durante el entrenamiento para prevenir el overfitting.","keywords":["ml"]},
+    {"id":126,"categoria":"ia","pregunta":"¿Qué es batch size?","respuesta":"El batch size es la cantidad de muestras de datos que se procesan juntas en cada iteración durante el entrenamiento de un modelo de machine learning.","keywords":["ml"]},
 
-    {"id":127,"categoria":"ia","pregunta":"¿Qué es epoch?","respuesta":"Ciclo completo de entrenamiento.","keywords":["ml"]},
-    {"id":128,"categoria":"ia","pregunta":"¿Qué es learning rate?","respuesta":"Velocidad de aprendizaje.","keywords":["ml"]},
+    {"id":127,"categoria":"ia","pregunta":"¿Qué es epoch?","respuesta":"Un epoch es un ciclo completo de entrenamiento en el que el modelo ha procesado todo el dataset de entrenamiento una vez.","keywords":["ml"]},
+    {"id":128,"categoria":"ia","pregunta":"¿Qué es learning rate?","respuesta":"El learning rate (tasa de aprendizaje) controla qué tan grandes son los ajustes que hace el modelo en sus parámetros en cada paso del entrenamiento.","keywords":["ml"]},
 
-    {"id":129,"categoria":"ia","pregunta":"¿Qué es optimizer?","respuesta":"Algoritmo de ajuste.","keywords":["ml"]},
-    {"id":130,"categoria":"ia","pregunta":"¿Qué es loss function?","respuesta":"Función de error.","keywords":["ml"]},
+    {"id":129,"categoria":"ia","pregunta":"¿Qué es optimizer?","respuesta":"Un optimizer (optimizador) es el algoritmo que ajusta los parámetros del modelo durante el entrenamiento para minimizar la función de pérdida.","keywords":["ml"]},
+    {"id":130,"categoria":"ia","pregunta":"¿Qué es loss function?","respuesta":"La loss function (función de pérdida) es la medida del error entre las predicciones del modelo y los valores reales, que el entrenamiento busca minimizar.","keywords":["ml"]},
 
-    
-    {"id":131,"categoria":"ia","pregunta":"¿Qué es backpropagation?","respuesta":"Algoritmo de entrenamiento.","keywords":["ml"]},
-    {"id":132,"categoria":"ia","pregunta":"¿Qué es gradiente?","respuesta":"Dirección de cambio.","keywords":["ml"]},
+    {"id":131,"categoria":"ia","pregunta":"¿Qué es backpropagation?","respuesta":"La backpropagation es el algoritmo que calcula el gradiente del error con respecto a cada parámetro de la red neuronal para poder actualizarlos durante el entrenamiento.","keywords":["ml"]},
+    {"id":132,"categoria":"ia","pregunta":"¿Qué es gradiente?","respuesta":"El gradiente es la derivada de la función de pérdida respecto a los parámetros del modelo, indicando en qué dirección y magnitud ajustarlos.","keywords":["ml"]},
 
-    {"id":133,"categoria":"ia","pregunta":"¿Qué es descenso de gradiente?","respuesta":"Optimización.","keywords":["ml"]},
-    {"id":134,"categoria":"ia","pregunta":"¿Qué es convergencia?","respuesta":"Estabilización del modelo.","keywords":["ml"]},
+    {"id":133,"categoria":"ia","pregunta":"¿Qué es descenso de gradiente?","respuesta":"El descenso de gradiente es el algoritmo de optimización que ajusta iterativamente los parámetros del modelo en la dirección opuesta al gradiente para minimizar el error.","keywords":["ml"]},
+    {"id":134,"categoria":"ia","pregunta":"¿Qué es convergencia?","respuesta":"La convergencia ocurre cuando el modelo de machine learning deja de mejorar significativamente y sus parámetros se estabilizan durante el entrenamiento.","keywords":["ml"]},
 
-    {"id":135,"categoria":"ia","pregunta":"¿Qué es generalización?","respuesta":"Capacidad de adaptarse.","keywords":["ml"]},
-    {"id":136,"categoria":"ia","pregunta":"¿Qué es dataset balanceado?","respuesta":"Clases equilibradas.","keywords":["ml"]},
+    {"id":135,"categoria":"ia","pregunta":"¿Qué es generalización?","respuesta":"La generalización es la capacidad de un modelo entrenado para rendir bien ante datos nuevos que no vio durante el entrenamiento.","keywords":["ml"]},
+    {"id":136,"categoria":"ia","pregunta":"¿Qué es dataset balanceado?","respuesta":"Un dataset balanceado es aquel en el que las distintas clases o categorías tienen una cantidad similar de ejemplos, lo que facilita el aprendizaje del modelo.","keywords":["ml"]},
 
-    {"id":137,"categoria":"ia","pregunta":"¿Qué es dataset desbalanceado?","respuesta":"Clases desiguales.","keywords":["ml"]},
-    {"id":138,"categoria":"ia","pregunta":"¿Qué es sampling?","respuesta":"Selección de datos.","keywords":["ml"]},
+    {"id":137,"categoria":"ia","pregunta":"¿Qué es dataset desbalanceado?","respuesta":"Un dataset desbalanceado es aquel donde algunas clases tienen muchos más ejemplos que otras, lo que puede sesgar las predicciones del modelo.","keywords":["ml"]},
+    {"id":138,"categoria":"ia","pregunta":"¿Qué es sampling?","respuesta":"El sampling es la selección de un subconjunto representativo de datos de una población mayor, utilizado para entrenar o evaluar modelos.","keywords":["ml"]},
 
-    {"id":139,"categoria":"ia","pregunta":"¿Qué es cross validation?","respuesta":"Validación cruzada.","keywords":["ml"]},
-    {"id":140,"categoria":"ia","pregunta":"¿Qué es grid search?","respuesta":"Búsqueda de parámetros.","keywords":["ml"]},
+    {"id":139,"categoria":"ia","pregunta":"¿Qué es cross validation?","respuesta":"La cross validation (validación cruzada) es una técnica que divide el dataset en múltiples partes para evaluar el modelo de forma más robusta y evitar el sobreajuste.","keywords":["ml"]},
+    {"id":140,"categoria":"ia","pregunta":"¿Qué es grid search?","respuesta":"El grid search es una técnica de búsqueda exhaustiva de los mejores hiperparámetros para un modelo, probando todas las combinaciones posibles de un rango definido.","keywords":["ml"]},
 
-    
-    {"id":141,"categoria":"ia","pregunta":"¿Qué es hiperparámetro?","respuesta":"Parámetro configurable.","keywords":["ml"]},
-    {"id":142,"categoria":"ia","pregunta":"¿Qué es tuning?","respuesta":"Optimización de parámetros.","keywords":["ml"]},
+    {"id":141,"categoria":"ia","pregunta":"¿Qué es hiperparámetro?","respuesta":"Un hiperparámetro es un parámetro del modelo de machine learning que se configura manualmente antes del entrenamiento y no es aprendido por el modelo.","keywords":["ml"]},
+    {"id":142,"categoria":"ia","pregunta":"¿Qué es tuning?","respuesta":"El tuning es el proceso de optimizar los hiperparámetros de un modelo para mejorar su rendimiento en una tarea específica.","keywords":["ml"]},
 
-    {"id":143,"categoria":"ia","pregunta":"¿Qué es modelo baseline?","respuesta":"Modelo simple inicial.","keywords":["ml"]},
-    {"id":144,"categoria":"ia","pregunta":"¿Qué es benchmark?","respuesta":"Referencia de comparación.","keywords":["ml"]},
+    {"id":143,"categoria":"ia","pregunta":"¿Qué es modelo baseline?","respuesta":"Un modelo baseline es un modelo simple de referencia inicial que se usa para comparar si modelos más complejos representan una mejora real.","keywords":["ml"]},
+    {"id":144,"categoria":"ia","pregunta":"¿Qué es benchmark?","respuesta":"Un benchmark es una referencia o estándar de comparación que permite evaluar el rendimiento de un modelo frente a otros o frente a un punto de partida definido.","keywords":["ml"]},
 
-    {"id":145,"categoria":"ia","pregunta":"¿Qué es dataset público?","respuesta":"Datos abiertos.","keywords":["data"]},
-    {"id":146,"categoria":"ia","pregunta":"¿Qué es dataset privado?","respuesta":"Datos restringidos.","keywords":["data"]},
+    {"id":145,"categoria":"ia","pregunta":"¿Qué es dataset público?","respuesta":"Un dataset público es un conjunto de datos disponible libremente para cualquier persona, utilizado habitualmente en investigación y entrenamiento de modelos.","keywords":["data"]},
+    {"id":146,"categoria":"ia","pregunta":"¿Qué es dataset privado?","respuesta":"Un dataset privado es un conjunto de datos de acceso restringido, generalmente por razones de confidencialidad, propiedad o privacidad.","keywords":["data"]},
 
-    {"id":147,"categoria":"ia","pregunta":"¿Qué es anonimización?","respuesta":"Ocultar identidad.","keywords":["data"]},
-    {"id":148,"categoria":"ia","pregunta":"¿Qué es privacidad?","respuesta":"Protección de datos.","keywords":["data"]},
+    {"id":147,"categoria":"ia","pregunta":"¿Qué es anonimización?","respuesta":"La anonimización es el proceso de eliminar o transformar información personal de un dataset para que los individuos no puedan ser identificados.","keywords":["data"]},
+    {"id":148,"categoria":"ia","pregunta":"¿Qué es privacidad?","respuesta":"La privacidad en IA se refiere a la protección de los datos personales de las personas involucradas en los datasets y sistemas de inteligencia artificial.","keywords":["data"]},
 
-    {"id":149,"categoria":"ia","pregunta":"¿Qué es seguridad en IA?","respuesta":"Protección de modelos.","keywords":["ia"]},
-    {"id":150,"categoria":"ia","pregunta":"¿Qué es adversarial attack?","respuesta":"Ataque a modelos.","keywords":["ia"]},
+    {"id":149,"categoria":"ia","pregunta":"¿Qué es seguridad en IA?","respuesta":"La seguridad en IA abarca las técnicas y prácticas para proteger los modelos de inteligencia artificial contra ataques, manipulaciones o usos maliciosos.","keywords":["ia"]},
+    {"id":150,"categoria":"ia","pregunta":"¿Qué es adversarial attack?","respuesta":"Un adversarial attack es una técnica en la que se introducen perturbaciones mínimas en los datos de entrada para engañar a un modelo de IA y hacerlo cometer errores.","keywords":["ia"]},
 
-    
-    {"id":151,"categoria":"ia","pregunta":"¿Qué es explainability?","respuesta":"Explicabilidad de modelos.","keywords":["ia"]},
-    {"id":152,"categoria":"ia","pregunta":"¿Qué es interpretabilidad?","respuesta":"Comprensión del modelo.","keywords":["ia"]},
+    {"id":151,"categoria":"ia","pregunta":"¿Qué es explainability?","respuesta":"La explainability (explicabilidad) en IA es la capacidad de un modelo para justificar sus predicciones de manera comprensible para los humanos.","keywords":["ia"]},
+    {"id":152,"categoria":"ia","pregunta":"¿Qué es interpretabilidad?","respuesta":"La interpretabilidad es la capacidad de comprender cómo y por qué un modelo de IA llega a una determinada decisión o predicción.","keywords":["ia"]},
 
-    {"id":153,"categoria":"ia","pregunta":"¿Qué es fairness?","respuesta":"Equidad en IA.","keywords":["ia"]},
-    {"id":154,"categoria":"ia","pregunta":"¿Qué es transparencia?","respuesta":"Claridad del modelo.","keywords":["ia"]},
+    {"id":153,"categoria":"ia","pregunta":"¿Qué es fairness?","respuesta":"El fairness (equidad) en IA es el principio que busca que los sistemas de inteligencia artificial no discriminen ni generen resultados injustos para ningún grupo.","keywords":["ia"]},
+    {"id":154,"categoria":"ia","pregunta":"¿Qué es transparencia?","respuesta":"La transparencia en IA implica que el funcionamiento de los modelos y los datos usados sean accesibles y comprensibles para los usuarios y reguladores.","keywords":["ia"]},
 
-    {"id":155,"categoria":"ia","pregunta":"¿Qué es automatización inteligente?","respuesta":"Automatización con IA.","keywords":["ia"]},
-    {"id":156,"categoria":"ia","pregunta":"¿Qué es industria 4.0?","respuesta":"Automatización industrial.","keywords":["ia"]},
+    {"id":155,"categoria":"ia","pregunta":"¿Qué es automatización inteligente?","respuesta":"La automatización inteligente combina inteligencia artificial con automatización tradicional para ejecutar procesos complejos de forma autónoma y adaptativa.","keywords":["ia"]},
+    {"id":156,"categoria":"ia","pregunta":"¿Qué es industria 4.0?","respuesta":"La industria 4.0 es la cuarta revolución industrial, caracterizada por la automatización industrial avanzada mediante IA, IoT y robótica.","keywords":["ia"]},
 
-    {"id":157,"categoria":"ia","pregunta":"¿Qué es IoT?","respuesta":"Internet de las cosas.","keywords":["iot"]},
-    {"id":158,"categoria":"ia","pregunta":"¿Qué es edge computing?","respuesta":"Procesamiento local.","keywords":["edge"]},
+    {"id":157,"categoria":"ia","pregunta":"¿Qué es IoT?","respuesta":"IoT (Internet de las Cosas) es la red de dispositivos físicos conectados a internet que recopilan e intercambian datos entre sí.","keywords":["iot"]},
+    {"id":158,"categoria":"ia","pregunta":"¿Qué es edge computing?","respuesta":"El edge computing es el procesamiento de datos cerca del lugar donde se generan, en lugar de enviarlos a la nube, reduciendo latencia y consumo de ancho de banda.","keywords":["edge"]},
 
-    {"id":159,"categoria":"ia","pregunta":"¿Qué es cloud AI?","respuesta":"IA en la nube.","keywords":["cloud"]},
-    {"id":160,"categoria":"ia","pregunta":"¿Qué es MLOps?","respuesta":"Operaciones de ML.","keywords":["mlops"]},
+    {"id":159,"categoria":"ia","pregunta":"¿Qué es cloud AI?","respuesta":"El cloud AI es el acceso y ejecución de modelos y servicios de inteligencia artificial a través de infraestructura en la nube, sin necesidad de hardware local especializado.","keywords":["cloud"]},
+    {"id":160,"categoria":"ia","pregunta":"¿Qué es MLOps?","respuesta":"MLOps es el conjunto de prácticas y herramientas para automatizar y gestionar el ciclo de vida completo de modelos de machine learning en producción.","keywords":["mlops"]},
 
-    
-    {"id":161,"categoria":"ia","pregunta":"¿Qué es pipeline de datos?","respuesta":"Flujo de datos.","keywords":["data"]},
-    {"id":162,"categoria":"ia","pregunta":"¿Qué es ETL?","respuesta":"Extracción transformación carga.","keywords":["etl"]},
+    {"id":161,"categoria":"ia","pregunta":"¿Qué es pipeline de datos?","respuesta":"Un pipeline de datos es el flujo automatizado de pasos para mover, transformar y procesar datos desde su origen hasta su destino o uso final.","keywords":["data"]},
+    {"id":162,"categoria":"ia","pregunta":"¿Qué es ETL?","respuesta":"ETL (Extract, Transform, Load) es el proceso de extraer datos de distintas fuentes, transformarlos y cargarlos en un sistema de almacenamiento centralizado.","keywords":["etl"]},
 
-    {"id":163,"categoria":"ia","pregunta":"¿Qué es data warehouse?","respuesta":"Almacén de datos.","keywords":["data"]},
-    {"id":164,"categoria":"ia","pregunta":"¿Qué es data lake?","respuesta":"Repositorio de datos.","keywords":["data"]},
+    {"id":163,"categoria":"ia","pregunta":"¿Qué es data warehouse?","respuesta":"Un data warehouse es un repositorio centralizado que almacena grandes volúmenes de datos históricos estructurados, optimizado para análisis y reporting.","keywords":["data"]},
+    {"id":164,"categoria":"ia","pregunta":"¿Qué es data lake?","respuesta":"Un data lake es un repositorio de almacenamiento masivo que guarda datos en su formato original, tanto estructurados como no estructurados, para análisis posterior.","keywords":["data"]},
 
-    {"id":165,"categoria":"ia","pregunta":"¿Qué es dashboard?","respuesta":"Visualización de datos.","keywords":["data"]},
-    {"id":166,"categoria":"ia","pregunta":"¿Qué es BI?","respuesta":"Business Intelligence.","keywords":["data"]},
+    {"id":165,"categoria":"ia","pregunta":"¿Qué es dashboard?","respuesta":"Un dashboard es una interfaz visual que muestra métricas, indicadores y datos clave de forma consolidada para facilitar el monitoreo y la toma de decisiones.","keywords":["data"]},
+    {"id":166,"categoria":"ia","pregunta":"¿Qué es BI?","respuesta":"Business Intelligence (BI) es el conjunto de estrategias y tecnologías para analizar datos empresariales y convertirlos en información útil para la toma de decisiones.","keywords":["data"]},
 
-    {"id":167,"categoria":"ia","pregunta":"¿Qué es analítica descriptiva?","respuesta":"Describe datos.","keywords":["data"]},
-    {"id":168,"categoria":"ia","pregunta":"¿Qué es analítica predictiva?","respuesta":"Predice datos.","keywords":["data"]},
+    {"id":167,"categoria":"ia","pregunta":"¿Qué es analítica descriptiva?","respuesta":"La analítica descriptiva es el análisis de datos históricos para responder qué ocurrió, resumiendo la información en métricas y visualizaciones.","keywords":["data"]},
+    {"id":168,"categoria":"ia","pregunta":"¿Qué es analítica predictiva?","respuesta":"La analítica predictiva usa modelos estadísticos y de machine learning para estimar qué podría ocurrir en el futuro basándose en datos históricos.","keywords":["data"]},
 
-    {"id":169,"categoria":"ia","pregunta":"¿Qué es analítica prescriptiva?","respuesta":"Sugiere acciones.","keywords":["data"]},
-    {"id":170,"categoria":"ia","pregunta":"¿Qué es storytelling con datos?","respuesta":"Comunicar insights.","keywords":["data"]},
+    {"id":169,"categoria":"ia","pregunta":"¿Qué es analítica prescriptiva?","respuesta":"La analítica prescriptiva sugiere acciones concretas a tomar basándose en el análisis de datos, combinando predicción con optimización.","keywords":["data"]},
+    {"id":170,"categoria":"ia","pregunta":"¿Qué es storytelling con datos?","respuesta":"El storytelling con datos es la práctica de comunicar insights y conclusiones de un análisis de datos de forma narrativa y visualmente atractiva.","keywords":["data"]},
 
-    
-    {"id":171,"categoria":"ia","pregunta":"¿Qué es automatización robótica RPA?","respuesta":"Automatización de procesos.","keywords":["rpa"]},
-    {"id":172,"categoria":"ia","pregunta":"¿Qué es chatbot conversacional?","respuesta":"Chatbot avanzado.","keywords":["chatbot"]},
+    {"id":171,"categoria":"ia","pregunta":"¿Qué es automatización robótica RPA?","respuesta":"RPA (Robotic Process Automation) es la tecnología que usa software para automatizar tareas repetitivas y basadas en reglas que antes realizaban personas.","keywords":["rpa"]},
+    {"id":172,"categoria":"ia","pregunta":"¿Qué es chatbot conversacional?","respuesta":"Un chatbot conversacional es un sistema avanzado que mantiene diálogos fluidos y contextuales con personas, simulando una conversación natural.","keywords":["chatbot"]},
 
-    {"id":173,"categoria":"ia","pregunta":"¿Qué es voice assistant?","respuesta":"Asistente de voz.","keywords":["ia"]},
-    {"id":174,"categoria":"ia","pregunta":"¿Qué es reconocimiento de voz?","respuesta":"IA que entiende audio.","keywords":["ia"]},
+    {"id":173,"categoria":"ia","pregunta":"¿Qué es voice assistant?","respuesta":"Un asistente de voz es un sistema de IA que interpreta comandos de voz del usuario y responde o ejecuta acciones en consecuencia.","keywords":["ia"]},
+    {"id":174,"categoria":"ia","pregunta":"¿Qué es reconocimiento de voz?","respuesta":"El reconocimiento de voz es la tecnología de IA que convierte el habla humana en texto, permitiendo a las computadoras entender el lenguaje hablado.","keywords":["ia"]},
 
-    {"id":175,"categoria":"ia","pregunta":"¿Qué es síntesis de voz?","respuesta":"IA que genera voz.","keywords":["ia"]},
-    {"id":176,"categoria":"ia","pregunta":"¿Qué es recomendación?","respuesta":"Sistemas de sugerencias.","keywords":["ia"]},
+    {"id":175,"categoria":"ia","pregunta":"¿Qué es síntesis de voz?","respuesta":"La síntesis de voz es la tecnología de IA que genera audio hablado a partir de texto escrito, creando voces artificiales naturales.","keywords":["ia"]},
+    {"id":176,"categoria":"ia","pregunta":"¿Qué es recomendación?","respuesta":"Los sistemas de recomendación son algoritmos de IA que sugieren productos, contenidos o acciones personalizadas según el comportamiento e historial del usuario.","keywords":["ia"]},
 
-    {"id":177,"categoria":"ia","pregunta":"¿Qué es personalización?","respuesta":"Adaptación al usuario.","keywords":["ia"]},
-    {"id":178,"categoria":"ia","pregunta":"¿Qué es segmentación?","respuesta":"Dividir usuarios.","keywords":["data"]},
+    {"id":177,"categoria":"ia","pregunta":"¿Qué es personalización?","respuesta":"La personalización en IA es la adaptación de contenidos, interfaces o respuestas al perfil y preferencias individuales de cada usuario.","keywords":["ia"]},
+    {"id":178,"categoria":"ia","pregunta":"¿Qué es segmentación?","respuesta":"La segmentación es la técnica de dividir usuarios o datos en grupos homogéneos según características comunes para tratarlos de forma diferenciada.","keywords":["data"]},
 
-    {"id":179,"categoria":"ia","pregunta":"¿Qué es detección de fraude?","respuesta":"Identificar anomalías.","keywords":["ia"]},
-    {"id":180,"categoria":"ia","pregunta":"¿Qué es predicción?","respuesta":"Estimación futura.","keywords":["ia"]}
+    {"id":179,"categoria":"ia","pregunta":"¿Qué es detección de fraude?","respuesta":"La detección de fraude es la aplicación de modelos de IA para identificar automáticamente transacciones, comportamientos o patrones anómalos que podrían indicar actividad fraudulenta.","keywords":["ia"]},
+    {"id":180,"categoria":"ia","pregunta":"¿Qué es predicción?","respuesta":"La predicción en IA es la estimación de un valor o resultado futuro basada en patrones aprendidos a partir de datos históricos.","keywords":["ia"]}
   ]
 }

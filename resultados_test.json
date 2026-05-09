@@ -1,0 +1,552 @@
+[
+    {
+        "id": 1,
+        "pregunta": "¿Qué es la computación?",
+        "respuesta_esperada": "La computación es la disciplina que estudia el procesamiento automático de información mediante computadoras.",
+        "contextos_encontrados": [
+            "La computación es la disciplina que estudia el procesamiento automático de información mediante computadoras.",
+            "La computación es el procesamiento automático de información, abarcando desde el diseño de algoritmos hasta la construcción de sistemas que resuelven problemas."
+        ],
+        "hit_buscador": true,
+        "respuesta_ia": "La computación es la disciplina que estudia el procesamiento automático de información mediante computadoras."
+    },
+    {
+        "id": 2,
+        "pregunta": "¿Qué es una computadora?",
+        "respuesta_esperada": "Una computadora es un dispositivo electrónico capaz de procesar datos siguiendo instrucciones programadas.",
+        "contextos_encontrados": [
+            "Una computadora es un dispositivo electrónico capaz de procesar datos siguiendo instrucciones programadas.",
+            "Una computadora sirve para procesar información, ejecutar programas y resolver problemas de forma automática."
+        ],
+        "hit_buscador": true,
+        "respuesta_ia": "Una computadora es un dispositivo electrónico capaz de procesar datos siguiendo instrucciones programadas."
+    },
+    {
+        "id": 3,
+        "pregunta": "Definí computadora",
+        "respuesta_esperada": "Una computadora es una máquina que procesa datos, ejecuta instrucciones y produce resultados.",
+        "contextos_encontrados": [
+            "Una computadora es una máquina que procesa datos, ejecuta instrucciones y produce resultados.",
+            "Una computadora es un dispositivo electrónico capaz de procesar datos siguiendo instrucciones programadas."
+        ],
+        "hit_buscador": true,
+        "respuesta_ia": "Una computadora es una máquina que procesa datos, ejecuta instrucciones y produce resultados."
+    },
+    {
+        "id": 4,
+        "pregunta": "¿Para qué sirve una computadora?",
+        "respuesta_esperada": "Una computadora sirve para procesar información, ejecutar programas y resolver problemas de forma automática.",
+        "contextos_encontrados": [
+            "Una computadora sirve para procesar información, ejecutar programas y resolver problemas de forma automática.",
+            "Una computadora es un dispositivo electrónico capaz de procesar datos siguiendo instrucciones programadas."
+        ],
+        "hit_buscador": true,
+        "respuesta_ia": "Procesar información, ejecutar programas y resolver problemas de forma automática."
+    },
+    {
+        "id": 5,
+        "pregunta": "¿Quién fue Charles Babbage?",
+        "respuesta_esperada": "Charles Babbage fue un matemático británico del siglo XIX que diseñó la máquina analítica, considerado el precursor de la computadora moderna.",
+        "contextos_encontrados": [
+            "Charles Babbage fue un matemático británico del siglo XIX que diseñó la máquina analítica, considerado el precursor de la computadora moderna.",
+            "Charles Babbage diseñó el concepto de computadora programable mecánica, sentando las bases de la computación moderna."
+        ],
+        "hit_buscador": true,
+        "respuesta_ia": "Charles Babbage fue un matemático británico del siglo XIX que diseñó la máquina analítica, considerado el precursor de la computadora moderna."
+    },
+    {
+        "id": 6,
+        "pregunta": "¿Qué hizo Babbage?",
+        "respuesta_esperada": "Charles Babbage diseñó el concepto de computadora programable mecánica, sentando las bases de la computación moderna.",
+        "contextos_encontrados": [
+            "Charles Babbage diseñó el concepto de computadora programable mecánica, sentando las bases de la computación moderna.",
+            "Charles Babbage fue un matemático británico del siglo XIX que diseñó la máquina analítica, considerado el precursor de la computadora moderna."
+        ],
+        "hit_buscador": true,
+        "respuesta_ia": "Diseñó el concepto de computadora programable mecánica y sentó las bases de la computación moderna."
+    },
+    {
+        "id": 7,
+        "pregunta": "¿Quién fue Ada Lovelace?",
+        "respuesta_esperada": "Ada Lovelace fue una matemática británica del siglo XIX, considerada la primera programadora de la historia por escribir el primer algoritmo destinado a ser procesado por una máquina.",
+        "contextos_encontrados": [
+            "Ada Lovelace fue una matemática británica del siglo XIX, considerada la primera programadora de la historia por escribir el primer algoritmo destinado a ser procesado por una máquina.",
+            "Charles Babbage fue un matemático británico del siglo XIX que diseñó la máquina analítica, considerado el precursor de la computadora moderna."
+        ],
+        "hit_buscador": true,
+        "respuesta_ia": "Ada Lovelace fue una matemática británica del siglo XIX."
+    },
+    {
+        "id": 8,
+        "pregunta": "¿Qué hizo Ada Lovelace?",
+        "respuesta_esperada": "Ada Lovelace escribió el primer algoritmo diseñado para ser ejecutado por una máquina, trabajando junto a Charles Babbage.",
+        "contextos_encontrados": [
+            "Ada Lovelace escribió el primer algoritmo diseñado para ser ejecutado por una máquina, trabajando junto a Charles Babbage.",
+            "Charles Babbage diseñó el concepto de computadora programable mecánica, sentando las bases de la computación moderna."
+        ],
+        "hit_buscador": true,
+        "respuesta_ia": "Escribió el primer algoritmo diseñado para ser ejecutado por una máquina."
+    },
+    {
+        "id": 9,
+        "pregunta": "¿Quién fue Alan Turing?",
+        "respuesta_esperada": "Alan Turing fue un matemático y científico de la computación británico, considerado el padre de la informática moderna por sus aportes teóricos sobre computación e inteligencia artificial.",
+        "contextos_encontrados": [
+            "Alan Turing fue un matemático y científico de la computación británico, considerado el padre de la informática moderna por sus aportes teóricos sobre computación e inteligencia artificial.",
+            "La máquina de Turing es un modelo teórico de computación propuesto por Alan Turing que define formalmente qué significa que un problema sea computable."
+        ],
+        "hit_buscador": true,
+        "respuesta_ia": "Alan Turing fue un matemático y científico de la computación británico, considerado el padre de la informática moderna."
+    },
+    {
+        "id": 10,
+        "pregunta": "¿Qué es la máquina de Turing?",
+        "respuesta_esperada": "La máquina de Turing es un modelo teórico de computación propuesto por Alan Turing que define formalmente qué significa que un problema sea computable.",
+        "contextos_encontrados": [
+            "La máquina de Turing es un modelo teórico de computación propuesto por Alan Turing que define formalmente qué significa que un problema sea computable.",
+            "El test de Turing es una prueba propuesta por Alan Turing para evaluar si una máquina puede exhibir un comportamiento inteligente indistinguible del de un humano."
+        ],
+        "hit_buscador": true,
+        "respuesta_ia": "La máquina de Turing es un modelo teórico de computación propuesto por Alan Turing que define formalmente qué significa que un problema sea computable."
+    },
+    {
+        "id": 11,
+        "pregunta": "¿Qué es el test de Turing?",
+        "respuesta_esperada": "El test de Turing es una prueba propuesta por Alan Turing para evaluar si una máquina puede exhibir un comportamiento inteligente indistinguible del de un humano.",
+        "contextos_encontrados": [
+            "El test de Turing es una prueba propuesta por Alan Turing para evaluar si una máquina puede exhibir un comportamiento inteligente indistinguible del de un humano.",
+            "La máquina de Turing es un modelo teórico de computación propuesto por Alan Turing que define formalmente qué significa que un problema sea computable."
+        ],
+        "hit_buscador": true,
+        "respuesta_ia": "El test de Turing es una prueba propuesta por Alan Turing para evaluar si una máquina puede exhibir un comportamiento inteligente indistinguible del de un humano."
+    },
+    {
+        "id": 12,
+        "pregunta": "¿Qué fue ENIAC?",
+        "respuesta_esperada": "ENIAC fue una de las primeras computadoras electrónicas de propósito general, construida en 1945 en la Universidad de Pensilvania para cálculos militares.",
+        "contextos_encontrados": [
+            "ENIAC fue una de las primeras computadoras electrónicas de propósito general, construida en 1945 en la Universidad de Pensilvania para cálculos militares.",
+            "Colossus fue una computadora electrónica construida por los británicos durante la Segunda Guerra Mundial para descifrar mensajes codificados alemanes."
+        ],
+        "hit_buscador": true,
+        "respuesta_ia": "ENIAC fue una de las primeras computadoras electrónicas de propósito general, construida en 1945 en la Universidad de Pensilvania para cálculos militares."
+    },
+    {
+        "id": 13,
+        "pregunta": "¿Qué fue Colossus?",
+        "respuesta_esperada": "Colossus fue una computadora electrónica construida por los británicos durante la Segunda Guerra Mundial para descifrar mensajes codificados alemanes.",
+        "contextos_encontrados": [
+            "Colossus fue una computadora electrónica construida por los británicos durante la Segunda Guerra Mundial para descifrar mensajes codificados alemanes.",
+            "ENIAC fue una de las primeras computadoras electrónicas de propósito general, construida en 1945 en la Universidad de Pensilvania para cálculos militares."
+        ],
+        "hit_buscador": true,
+        "respuesta_ia": "Colossus fue una computadora electrónica construida por los británicos durante la Segunda Guerra Mundial para descifrar mensajes codificados alemanes."
+    },
+    {
+        "id": 14,
+        "pregunta": "¿Qué es hardware?",
+        "respuesta_esperada": "El hardware son los componentes físicos de una computadora, como el procesador, la memoria, el disco duro y los periféricos.",
+        "contextos_encontrados": [
+            "El hardware son los componentes físicos de una computadora, como el procesador, la memoria, el disco duro y los periféricos.",
+            "La computación es la disciplina que estudia el procesamiento automático de información mediante computadoras."
+        ],
+        "hit_buscador": true,
+        "respuesta_ia": "El hardware son los componentes físicos de una computadora."
+    },
+    {
+        "id": 15,
+        "pregunta": "¿Qué es software?",
+        "respuesta_esperada": "El software son los programas e instrucciones que ejecuta una computadora para realizar tareas específicas.",
+        "contextos_encontrados": [
+            "El software son los programas e instrucciones que ejecuta una computadora para realizar tareas específicas.",
+            "La computación es la disciplina que estudia el procesamiento automático de información mediante computadoras."
+        ],
+        "hit_buscador": true,
+        "respuesta_ia": "Los programas e instrucciones que ejecuta una computadora para realizar tareas específicas."
+    },
+    {
+        "id": 16,
+        "pregunta": "¿Qué es la CPU?",
+        "respuesta_esperada": "La CPU (Unidad Central de Procesamiento) es el componente principal de una computadora que ejecuta las instrucciones de los programas.",
+        "contextos_encontrados": [
+            "La CPU (Unidad Central de Procesamiento) es el componente principal de una computadora que ejecuta las instrucciones de los programas.",
+            "Un microprocesador es un chip integrado que contiene la CPU completa, combinando en un solo circuito todas las funciones de procesamiento central."
+        ],
+        "hit_buscador": true,
+        "respuesta_ia": "La CPU (Unidad Central de Procesamiento) es el componente principal de una computadora que ejecuta las instrucciones de los programas."
+    },
+    {
+        "id": 17,
+        "pregunta": "¿Qué es un microprocesador?",
+        "respuesta_esperada": "Un microprocesador es un chip integrado que contiene la CPU completa, combinando en un solo circuito todas las funciones de procesamiento central.",
+        "contextos_encontrados": [
+            "Un microprocesador es un chip integrado que contiene la CPU completa, combinando en un solo circuito todas las funciones de procesamiento central.",
+            "Un sistema operativo es el software principal que gestiona el hardware de la computadora y permite la ejecución de otros programas."
+        ],
+        "hit_buscador": true,
+        "respuesta_ia": "Un microprocesador es un chip integrado que contiene la CPU completa, combinando en un solo circuito todas las funciones de procesamiento central."
+    },
+    {
+        "id": 18,
+        "pregunta": "¿Qué es un sistema operativo?",
+        "respuesta_esperada": "Un sistema operativo es el software principal que gestiona el hardware de la computadora y permite la ejecución de otros programas.",
+        "contextos_encontrados": [
+            "Un sistema operativo es el software principal que gestiona el hardware de la computadora y permite la ejecución de otros programas.",
+            "Un sistema operativo administra los recursos del hardware, gestiona procesos, memoria y archivos, y permite ejecutar programas de forma ordenada."
+        ],
+        "hit_buscador": true,
+        "respuesta_ia": "Un sistema operativo es el software principal que gestiona el hardware de la computadora y permite la ejecución de otros programas."
+    },
+    {
+        "id": 19,
+        "pregunta": "¿Qué hace un sistema operativo?",
+        "respuesta_esperada": "Un sistema operativo administra los recursos del hardware, gestiona procesos, memoria y archivos, y permite ejecutar programas de forma ordenada.",
+        "contextos_encontrados": [
+            "Un sistema operativo administra los recursos del hardware, gestiona procesos, memoria y archivos, y permite ejecutar programas de forma ordenada.",
+            "Un sistema operativo es el software principal que gestiona el hardware de la computadora y permite la ejecución de otros programas."
+        ],
+        "hit_buscador": true,
+        "respuesta_ia": "Administra los recursos del hardware, gestiona procesos, memoria y archivos, y permite ejecutar programas de forma ordenada."
+    },
+    {
+        "id": 20,
+        "pregunta": "¿Qué es un lenguaje de programación?",
+        "respuesta_esperada": "Un lenguaje de programación es un sistema formal de notación que permite escribir instrucciones que una computadora puede entender y ejecutar.",
+        "contextos_encontrados": [
+            "Un lenguaje de programación es un sistema formal de notación que permite escribir instrucciones que una computadora puede entender y ejecutar.",
+            "La máquina de Turing es un modelo teórico de computación propuesto por Alan Turing que define formalmente qué significa que un problema sea computable."
+        ],
+        "hit_buscador": true,
+        "respuesta_ia": "Un lenguaje de programación es un sistema formal de notación que permite escribir instrucciones que una computadora puede entender y ejecutar."
+    },
+    {
+        "id": 21,
+        "pregunta": "¿Qué es programar?",
+        "respuesta_esperada": "Programar es el proceso de escribir instrucciones en un lenguaje de programación para que una computadora realice una tarea determinada.",
+        "contextos_encontrados": [
+            "Programar es el proceso de escribir instrucciones en un lenguaje de programación para que una computadora realice una tarea determinada.",
+            "La computación es la disciplina que estudia el procesamiento automático de información mediante computadoras."
+        ],
+        "hit_buscador": true,
+        "respuesta_ia": "Programar es el proceso de escribir instrucciones en un lenguaje de programación para que una computadora realice una tarea determinada."
+    },
+    {
+        "id": 22,
+        "pregunta": "¿Qué es Python?",
+        "respuesta_esperada": "Python es un lenguaje de programación de alto nivel, de sintaxis simple y muy popular en inteligencia artificial, ciencia de datos y automatización.",
+        "contextos_encontrados": [
+            "Python es un lenguaje de programación de alto nivel, de sintaxis simple y muy popular en inteligencia artificial, ciencia de datos y automatización.",
+            "La computación es la disciplina que estudia el procesamiento automático de información mediante computadoras."
+        ],
+        "hit_buscador": true,
+        "respuesta_ia": "Python es un lenguaje de programación de alto nivel."
+    },
+    {
+        "id": 23,
+        "pregunta": "¿Qué es Java?",
+        "respuesta_esperada": "Java es un lenguaje de programación orientado a objetos, multiplataforma, ampliamente usado en aplicaciones empresariales y desarrollo web.",
+        "contextos_encontrados": [
+            "Java es un lenguaje de programación orientado a objetos, multiplataforma, ampliamente usado en aplicaciones empresariales y desarrollo web.",
+            "La computación es la disciplina que estudia el procesamiento automático de información mediante computadoras."
+        ],
+        "hit_buscador": true,
+        "respuesta_ia": "Java es un lenguaje de programación orientado a objetos."
+    },
+    {
+        "id": 24,
+        "pregunta": "¿Qué es C?",
+        "respuesta_esperada": "C es un lenguaje de programación de bajo nivel que sirve como base para muchos sistemas operativos y lenguajes modernos, conocido por su eficiencia y control del hardware.",
+        "contextos_encontrados": [
+            "C es un lenguaje de programación de bajo nivel que sirve como base para muchos sistemas operativos y lenguajes modernos, conocido por su eficiencia y control del hardware.",
+            "La computación es la disciplina que estudia el procesamiento automático de información mediante computadoras."
+        ],
+        "hit_buscador": true,
+        "respuesta_ia": "C es un lenguaje de programación de bajo nivel."
+    },
+    {
+        "id": 25,
+        "pregunta": "¿Qué es inteligencia artificial?",
+        "respuesta_esperada": "La inteligencia artificial es la rama de la computación que desarrolla tecnologías capaces de imitar o superar capacidades cognitivas humanas como razonar, aprender o tomar decisiones.",
+        "contextos_encontrados": [
+            "La inteligencia artificial es la rama de la computación que desarrolla tecnologías capaces de imitar o superar capacidades cognitivas humanas como razonar, aprender o tomar decisiones.",
+            "La computación es la disciplina que estudia el procesamiento automático de información mediante computadoras."
+        ],
+        "hit_buscador": true,
+        "respuesta_ia": "La inteligencia artificial es la rama de la computación que desarrolla tecnologías capaces de imitar o superar capacidades cognitivas humanas como razonar, aprender o tomar decisiones."
+    },
+    {
+        "id": 26,
+        "pregunta": "Definí inteligencia artificial",
+        "respuesta_esperada": "La inteligencia artificial es la disciplina que diseña sistemas capaces de realizar tareas que normalmente requieren inteligencia humana.",
+        "contextos_encontrados": [
+            "La inteligencia artificial es la disciplina que diseña sistemas capaces de realizar tareas que normalmente requieren inteligencia humana.",
+            "La inteligencia artificial es la rama de la computación que desarrolla tecnologías capaces de imitar o superar capacidades cognitivas humanas como razonar, aprender o tomar decisiones."
+        ],
+        "hit_buscador": true,
+        "respuesta_ia": "La inteligencia artificial es la disciplina que diseña sistemas capazes de realizar tareas que normalmente requieren inteligencia humana."
+    },
+    {
+        "id": 27,
+        "pregunta": "¿Qué es machine learning?",
+        "respuesta_esperada": "El machine learning es una rama de la inteligencia artificial en la que los modelos aprenden patrones a partir de datos sin ser programados explícitamente para cada tarea.",
+        "contextos_encontrados": [
+            "El machine learning es una rama de la inteligencia artificial en la que los modelos aprenden patrones a partir de datos sin ser programados explícitamente para cada tarea.",
+            "El deep learning es una subrama del machine learning que utiliza redes neuronales artificiales con múltiples capas para aprender representaciones complejas de los datos."
+        ],
+        "hit_buscador": true,
+        "respuesta_ia": "La machine learning es una rama de la inteligencia artificial en la que los modelos aprenden patrones a partir de datos sin ser programados explícitamente para cada tarea."
+    },
+    {
+        "id": 28,
+        "pregunta": "¿Qué es deep learning?",
+        "respuesta_esperada": "El deep learning es una subrama del machine learning que utiliza redes neuronales artificiales con múltiples capas para aprender representaciones complejas de los datos.",
+        "contextos_encontrados": [
+            "El deep learning es una subrama del machine learning que utiliza redes neuronales artificiales con múltiples capas para aprender representaciones complejas de los datos.",
+            "El machine learning es una rama de la inteligencia artificial en la que los modelos aprenden patrones a partir de datos sin ser programados explícitamente para cada tarea."
+        ],
+        "hit_buscador": true,
+        "respuesta_ia": "La subrama del machine learning que utiliza redes neuronales artificiales con múltiples capas para aprender representaciones complejas de los datos."
+    },
+    {
+        "id": 29,
+        "pregunta": "¿Qué es una red neuronal?",
+        "respuesta_esperada": "Una red neuronal artificial es un modelo computacional inspirado en el funcionamiento del cerebro humano, compuesto por nodos interconectados que procesan información.",
+        "contextos_encontrados": [
+            "Una red neuronal artificial es un modelo computacional inspirado en el funcionamiento del cerebro humano, compuesto por nodos interconectados que procesan información.",
+            "Las redes neuronales sirven para reconocer patrones complejos en datos, siendo la base de aplicaciones como reconocimiento de imágenes, voz y texto."
+        ],
+        "hit_buscador": true,
+        "respuesta_ia": "Una red neuronal artificial es un modelo computacional inspirado en el funcionamiento del cerebro humano, compuesto por nodos interconectados que procesan información."
+    },
+    {
+        "id": 30,
+        "pregunta": "¿Para qué sirven las redes neuronales?",
+        "respuesta_esperada": "Las redes neuronales sirven para reconocer patrones complejos en datos, siendo la base de aplicaciones como reconocimiento de imágenes, voz y texto.",
+        "contextos_encontrados": [
+            "Las redes neuronales sirven para reconocer patrones complejos en datos, siendo la base de aplicaciones como reconocimiento de imágenes, voz y texto.",
+            "Los transformers sirven para procesar lenguaje natural de forma eficiente, siendo la arquitectura detrás de los principales modelos de lenguaje actuales."
+        ],
+        "hit_buscador": true,
+        "respuesta_ia": "Reconocer patrones complejos en datos."
+    },
+    {
+        "id": 31,
+        "pregunta": "¿Qué es NLP?",
+        "respuesta_esperada": "NLP (Procesamiento de Lenguaje Natural) es la rama de la inteligencia artificial que permite a las computadoras comprender, interpretar y generar lenguaje humano.",
+        "contextos_encontrados": [
+            "NLP (Procesamiento de Lenguaje Natural) es la rama de la inteligencia artificial que permite a las computadoras comprender, interpretar y generar lenguaje humano.",
+            "La computación es la disciplina que estudia el procesamiento automático de información mediante computadoras."
+        ],
+        "hit_buscador": true,
+        "respuesta_ia": "NLP (Procesamiento de Lenguaje Natural) es la rama de la inteligencia artificial que permite a las computadoras comprender, interpretar y generar lenguaje humano."
+    },
+    {
+        "id": 32,
+        "pregunta": "¿Qué es un chatbot?",
+        "respuesta_esperada": "Un chatbot es un sistema de software diseñado para simular conversaciones con personas, respondiendo preguntas de forma automatizada.",
+        "contextos_encontrados": [
+            "Un chatbot es un sistema de software diseñado para simular conversaciones con personas, respondiendo preguntas de forma automatizada.",
+            "Un chatbot conversacional es un sistema avanzado que mantiene diálogos fluidos y contextuales con personas, simulando una conversación natural."
+        ],
+        "hit_buscador": true,
+        "respuesta_ia": "Un chatbot es un sistema de software diseñado para simular conversaciones con personas, respondiendo preguntas de forma automatizada."
+    },
+    {
+        "id": 33,
+        "pregunta": "¿Qué es un LLM?",
+        "respuesta_esperada": "Un LLM (Large Language Model) es un modelo de inteligencia artificial de gran escala entrenado sobre enormes volúmenes de texto para generar y comprender lenguaje natural.",
+        "contextos_encontrados": [
+            "Un LLM (Large Language Model) es un modelo de inteligencia artificial de gran escala entrenado sobre enormes volúmenes de texto para generar y comprender lenguaje natural.",
+            "Un microprocesador es un chip integrado que contiene la CPU completa, combinando en un solo circuito todas las funciones de procesamiento central."
+        ],
+        "hit_buscador": true,
+        "respuesta_ia": "Un LLM (Large Language Model) es un modelo de inteligencia artificial de gran escala entrenado sobre enormes volúmenes de texto para generar y comprender lenguaje natural."
+    },
+    {
+        "id": 34,
+        "pregunta": "¿Qué es un prompt?",
+        "respuesta_esperada": "Un prompt es el texto de entrada que el usuario proporciona a un modelo de IA para obtener una respuesta o resultado específico.",
+        "contextos_encontrados": [
+            "Un prompt es el texto de entrada que el usuario proporciona a un modelo de IA para obtener una respuesta o resultado específico.",
+            "Un microprocesador es un chip integrado que contiene la CPU completa, combinando en un solo circuito todas las funciones de procesamiento central."
+        ],
+        "hit_buscador": true,
+        "respuesta_ia": "Un prompt es el texto de entrada que el usuario proporciona a un modelo de IA para obtener una respuesta o resultado específico."
+    },
+    {
+        "id": 35,
+        "pregunta": "¿Qué es un dataset?",
+        "respuesta_esperada": "Un dataset es un conjunto estructurado de datos utilizado para entrenar, validar o evaluar modelos de inteligencia artificial.",
+        "contextos_encontrados": [
+            "Un dataset es un conjunto estructurado de datos utilizado para entrenar, validar o evaluar modelos de inteligencia artificial.",
+            "Un microprocesador es un chip integrado que contiene la CPU completa, combinando en un solo circuito todas las funciones de procesamiento central."
+        ],
+        "hit_buscador": true,
+        "respuesta_ia": "Un conjunto estructurado de datos utilizado para entrenar, validar o evaluar modelos de inteligencia artificial."
+    },
+    {
+        "id": 36,
+        "pregunta": "¿Qué es JSON?",
+        "respuesta_esperada": "JSON (JavaScript Object Notation) es un formato de texto ligero para almacenar e intercambiar datos de forma estructurada, ampliamente usado en APIs y configuraciones.",
+        "contextos_encontrados": [
+            "JSON (JavaScript Object Notation) es un formato de texto ligero para almacenar e intercambiar datos de forma estructurada, ampliamente usado en APIs y configuraciones.",
+            "La computación es la disciplina que estudia el procesamiento automático de información mediante computadoras."
+        ],
+        "hit_buscador": true,
+        "respuesta_ia": "JSON (JavaScript Object Notation) es un formato de texto ligero para almacenar e intercambiar datos de forma estructurada, ampliamente usado en APIs y configuraciones."
+    },
+    {
+        "id": 37,
+        "pregunta": "¿Qué es CSV?",
+        "respuesta_esperada": "CSV (Comma-Separated Values) es un formato de archivo de texto plano donde los datos se organizan en filas y columnas separadas por comas.",
+        "contextos_encontrados": [
+            "CSV (Comma-Separated Values) es un formato de archivo de texto plano donde los datos se organizan en filas y columnas separadas por comas.",
+            "La computación es la disciplina que estudia el procesamiento automático de información mediante computadoras."
+        ],
+        "hit_buscador": true,
+        "respuesta_ia": "CSV (Comma-Separated Values) es un formato de archivo de texto plano donde los datos se organizan en filas y columnas separadas por comas."
+    },
+    {
+        "id": 38,
+        "pregunta": "¿Qué es Big Data?",
+        "respuesta_esperada": "Big Data se refiere al manejo y análisis de volúmenes de datos tan masivos y complejos que los sistemas tradicionales no pueden procesarlos eficientemente.",
+        "contextos_encontrados": [
+            "Big Data se refiere al manejo y análisis de volúmenes de datos tan masivos y complejos que los sistemas tradicionales no pueden procesarlos eficientemente.",
+            "El data labeling es el proceso de anotar o etiquetar datos manualmente para que puedan ser usados en el entrenamiento supervisado de modelos."
+        ],
+        "hit_buscador": true,
+        "respuesta_ia": "Big Data se refiere al manejo y análisis de volúmenes de datos tan masivos y complejos que los sistemas tradicionales no pueden procesarlos eficientemente."
+    },
+    {
+        "id": 39,
+        "pregunta": "¿Qué es un vector?",
+        "respuesta_esperada": "En computación, un vector es una lista ordenada de números que representa datos de forma matemática, muy utilizada en álgebra lineal e inteligencia artificial.",
+        "contextos_encontrados": [
+            "En computación, un vector es una lista ordenada de números que representa datos de forma matemática, muy utilizada en álgebra lineal e inteligencia artificial.",
+            "Un microprocesador es un chip integrado que contiene la CPU completa, combinando en un solo circuito todas las funciones de procesamiento central."
+        ],
+        "hit_buscador": true,
+        "respuesta_ia": "Una lista ordenada de números que representa datos de forma matemática."
+    },
+    {
+        "id": 40,
+        "pregunta": "¿Qué es embedding?",
+        "respuesta_esperada": "Un embedding es una representación numérica densa de datos como texto o imágenes, que captura su significado semántico en un espacio vectorial.",
+        "contextos_encontrados": [
+            "Un embedding es una representación numérica densa de datos como texto o imágenes, que captura su significado semántico en un espacio vectorial.",
+            "La computación es la disciplina que estudia el procesamiento automático de información mediante computadoras."
+        ],
+        "hit_buscador": true,
+        "respuesta_ia": "Un embedding es una representación numérica densa de datos como texto o imágenes, que captura su significado semántico en un espacio vectorial."
+    },
+    {
+        "id": 41,
+        "pregunta": "¿Qué es internet?",
+        "respuesta_esperada": "Internet es una red global de computadoras interconectadas que permite la comunicación y el intercambio de información a escala mundial.",
+        "contextos_encontrados": [
+            "Internet es una red global de computadoras interconectadas que permite la comunicación y el intercambio de información a escala mundial.",
+            "La computación es la disciplina que estudia el procesamiento automático de información mediante computadoras."
+        ],
+        "hit_buscador": true,
+        "respuesta_ia": "Internet es una red global de computadoras interconectadas que permite la comunicación y el intercambio de información a escala mundial."
+    },
+    {
+        "id": 42,
+        "pregunta": "¿Qué es la web?",
+        "respuesta_esperada": "La web (World Wide Web) es un sistema de páginas e información interconectadas a través de internet, accesible mediante navegadores.",
+        "contextos_encontrados": [
+            "La web (World Wide Web) es un sistema de páginas e información interconectadas a través de internet, accesible mediante navegadores.",
+            "La computación es la disciplina que estudia el procesamiento automático de información mediante computadoras."
+        ],
+        "hit_buscador": true,
+        "respuesta_ia": "La web (World Wide Web) es un sistema de páginas e información interconectadas a través de internet, accesible mediante navegadores."
+    },
+    {
+        "id": 43,
+        "pregunta": "¿Qué es HTML?",
+        "respuesta_esperada": "HTML (HyperText Markup Language) es el lenguaje estándar para crear y estructurar páginas web mediante etiquetas que definen el contenido.",
+        "contextos_encontrados": [
+            "HTML (HyperText Markup Language) es el lenguaje estándar para crear y estructurar páginas web mediante etiquetas que definen el contenido.",
+            "La computación es la disciplina que estudia el procesamiento automático de información mediante computadoras."
+        ],
+        "hit_buscador": true,
+        "respuesta_ia": "HTML (HyperText Markup Language) es el lenguaje estándar para crear y estructurar páginas web mediante etiquetas que definen el contenido."
+    },
+    {
+        "id": 44,
+        "pregunta": "¿Qué es una API?",
+        "respuesta_esperada": "Una API (Interfaz de Programación de Aplicaciones) es un conjunto de reglas que permite que diferentes sistemas o aplicaciones se comuniquen entre sí.",
+        "contextos_encontrados": [
+            "Una API (Interfaz de Programación de Aplicaciones) es un conjunto de reglas que permite que diferentes sistemas o aplicaciones se comuniquen entre sí.",
+            "Una computadora es un dispositivo electrónico capaz de procesar datos siguiendo instrucciones programadas."
+        ],
+        "hit_buscador": true,
+        "respuesta_ia": "Un conjunto de reglas que permite que diferentes sistemas o aplicaciones se comuniquen entre sí."
+    },
+    {
+        "id": 45,
+        "pregunta": "¿Qué es visión por computadora?",
+        "respuesta_esperada": "La visión por computadora es la rama de la inteligencia artificial que permite a las máquinas interpretar y analizar imágenes y videos del mundo real.",
+        "contextos_encontrados": [
+            "La visión por computadora es la rama de la inteligencia artificial que permite a las máquinas interpretar y analizar imágenes y videos del mundo real.",
+            "Una computadora es un dispositivo electrónico capaz de procesar datos siguiendo instrucciones programadas."
+        ],
+        "hit_buscador": true,
+        "respuesta_ia": "La visión por computadora es la rama de la inteligencia artificial que permite a las máquinas interpretar y analizar imágenes y videos del mundo real."
+    },
+    {
+        "id": 46,
+        "pregunta": "¿Qué es robótica?",
+        "respuesta_esperada": "La robótica es la disciplina que diseña y construye robots, integrando inteligencia artificial para que puedan realizar tareas físicas de forma autónoma.",
+        "contextos_encontrados": [
+            "La robótica es la disciplina que diseña y construye robots, integrando inteligencia artificial para que puedan realizar tareas físicas de forma autónoma.",
+            "RPA (Robotic Process Automation) es la tecnología que usa software para automatizar tareas repetitivas y basadas en reglas que antes realizaban personas."
+        ],
+        "hit_buscador": true,
+        "respuesta_ia": "La robótica es la disciplina que diseña y construye robots, integrando inteligencia artificial para que puedan realizar tareas físicas de forma autónoma."
+    },
+    {
+        "id": 47,
+        "pregunta": "¿Qué es GPT?",
+        "respuesta_esperada": "GPT (Generative Pre-trained Transformer) es una familia de modelos de lenguaje de gran escala desarrollados por OpenAI, basados en la arquitectura transformer.",
+        "contextos_encontrados": [
+            "GPT (Generative Pre-trained Transformer) es una familia de modelos de lenguaje de gran escala desarrollados por OpenAI, basados en la arquitectura transformer.",
+            "La computación es la disciplina que estudia el procesamiento automático de información mediante computadoras."
+        ],
+        "hit_buscador": true,
+        "respuesta_ia": "GPT (Generative Pre-trained Transformer) es una familia de modelos de lenguaje de gran escala desarrollados por OpenAI, basados en la arquitectura transformer."
+    },
+    {
+        "id": 48,
+        "pregunta": "¿Qué es un token?",
+        "respuesta_esperada": "En inteligencia artificial, un token es la unidad mínima de texto que procesa un modelo de lenguaje, generalmente una palabra o fragmento de palabra.",
+        "contextos_encontrados": [
+            "En inteligencia artificial, un token es la unidad mínima de texto que procesa un modelo de lenguaje, generalmente una palabra o fragmento de palabra.",
+            "Un microprocesador es un chip integrado que contiene la CPU completa, combinando en un solo circuito todas las funciones de procesamiento central."
+        ],
+        "hit_buscador": true,
+        "respuesta_ia": "Un token es la unidad mínima de texto que procesa un modelo de lenguaje, generalmente una palabra o fragmento de palabra."
+    },
+    {
+        "id": 49,
+        "pregunta": "¿Qué es ética en IA?",
+        "respuesta_esperada": "La ética en IA es el conjunto de principios y marcos que guían el desarrollo y uso responsable de sistemas de inteligencia artificial, considerando impacto social, equidad y transparencia.",
+        "contextos_encontrados": [
+            "La ética en IA es el conjunto de principios y marcos que guían el desarrollo y uso responsable de sistemas de inteligencia artificial, considerando impacto social, equidad y transparencia.",
+            "La inferencia en IA es el proceso de usar un modelo ya entrenado para hacer predicciones o generar respuestas a partir de nuevos datos."
+        ],
+        "hit_buscador": true,
+        "respuesta_ia": "La ética en IA es el conjunto de principios y marcos que guían el desarrollo y uso responsable de sistemas de inteligencia artificial, considerando impacto social, equidad y transparencia."
+    },
+    {
+        "id": 50,
+        "pregunta": "¿Qué es sesgo en IA?",
+        "respuesta_esperada": "El sesgo en IA son errores sistemáticos en los modelos causados por datos de entrenamiento que no representan correctamente la realidad, llevando a resultados injustos o incorrectos.",
+        "contextos_encontrados": [
+            "El sesgo en IA son errores sistemáticos en los modelos causados por datos de entrenamiento que no representan correctamente la realidad, llevando a resultados injustos o incorrectos.",
+            "La ética en IA es el conjunto de principios y marcos que guían el desarrollo y uso responsable de sistemas de inteligencia artificial, considerando impacto social, equidad y transparencia."
+        ],
+        "hit_buscador": true,
+        "respuesta_ia": "El sesgo en IA son errores sistemáticos en los modelos causados por datos de entrenamiento que no representan correctamente la realidad, llevando a resultados injustos o incorrectos."
+    }
+]
