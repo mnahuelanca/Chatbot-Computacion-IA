@@ -30,11 +30,6 @@ for i, item in enumerate(lote_prueba):
     # buscar_contexto devuelve una LISTA de strings
     contextos = buscar_contexto(pregunta_test, datos_qa)
 
-    # ── FIX CRÍTICO ──────────────────────────────────────────────────────────
-    # Antes se comparaba: contexto == respuesta_esperada
-    # Eso es lista vs string → siempre False → efectividad siempre 0%.
-    # Lo correcto es verificar si la respuesta esperada está DENTRO de la lista.
-    # ─────────────────────────────────────────────────────────────────────────
     hit = respuesta_esperada in contextos
 
     if hit:
@@ -58,7 +53,7 @@ for i, item in enumerate(lote_prueba):
     print(f"  [{i+1:>2}/{LOTE}] hit={hit} | pregunta: {pregunta_test[:50]}")
 
     # Sin sleep extra: LLaMA ya tiene su propia latencia.
-    # Si querés respetar rate-limits en algún servicio externo, descomentá:
+    # rate-limits en algún servicio externo:
     # time.sleep(0.2)
 
 # ─────────────────────────────────────────────
