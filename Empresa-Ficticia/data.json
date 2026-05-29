@@ -1,0 +1,109 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "categoria": "empresa",
+      "pregunta": "¿Cómo se llama la empresa?",
+      "respuesta": "La empresa se llama TechSolutions S.A.",
+      "keywords": ["empresa", "nombre"]
+    },
+    {
+      "id": 2,
+      "categoria": "empresa",
+      "pregunta": "¿A qué se dedica la empresa?",
+      "respuesta": "TechSolutions S.A. se dedica al desarrollo de software, soporte técnico y consultoría informática.",
+      "keywords": ["actividad", "empresa", "servicios", "dedica", "trata"]
+    },
+    {
+      "id": 3,
+      "categoria": "empresa",
+      "pregunta": "¿Cuándo fue fundada la empresa?",
+      "respuesta": "La empresa fue fundada en el año 2018.",
+      "keywords": ["fundacion", "inicio", "historia"]
+    },
+    {
+      "id": 4,
+      "categoria": "empresa",
+      "pregunta": "¿Dónde está ubicada la empresa?",
+      "respuesta": "La sede principal se encuentra en Buenos Aires, Argentina.",
+      "keywords": ["ubicacion", "direccion", "sede"]
+    },
+    {
+      "id": 5,
+      "categoria": "servicios",
+      "pregunta": "¿Qué servicios ofrece la empresa?",
+      "respuesta": "La empresa ofrece desarrollo web, aplicaciones móviles, soporte técnico, análisis de datos y consultoría IT.",
+      "keywords": ["servicios", "productos"]
+    },
+    {
+      "id": 6,
+      "categoria": "servicios",
+      "pregunta": "¿Desarrollan aplicaciones móviles?",
+      "respuesta": "Sí, la empresa desarrolla aplicaciones móviles para Android e iOS.",
+      "keywords": ["moviles", "apps", "android", "ios"]
+    },
+    {
+      "id": 7,
+      "categoria": "servicios",
+      "pregunta": "¿Realizan desarrollo web?",
+      "respuesta": "Sí, la empresa desarrolla sitios web corporativos, e-commerce y sistemas de gestión.",
+      "keywords": ["web", "paginas", "sitios"]
+    },
+    {
+      "id": 8,
+      "categoria": "soporte",
+      "pregunta": "¿Cuál es el horario de atención?",
+      "respuesta": "El horario de atención es de lunes a viernes de 9:00 a 18:00 horas.",
+      "keywords": ["horario", "atencion"]
+    },
+    {
+      "id": 9,
+      "categoria": "soporte",
+      "pregunta": "¿Cómo puedo contactar a la empresa?",
+      "respuesta": "Puede comunicarse por correo a contacto@techsolutions.com o por teléfono al 0800-123-4567.",
+      "keywords": ["contacto", "telefono", "correo"]
+    },
+    {
+      "id": 10,
+      "categoria": "soporte",
+      "pregunta": "¿Ofrecen soporte técnico?",
+      "respuesta": "Sí, la empresa brinda soporte técnico remoto y presencial para clientes.",
+      "keywords": ["soporte", "ayuda"]
+    },
+    {
+      "id": 11,
+      "categoria": "rrhh",
+      "pregunta": "¿La empresa recibe currículums?",
+      "respuesta": "Sí, los currículums pueden enviarse a rrhh@techsolutions.com.",
+      "keywords": ["trabajo", "empleo", "cv"]
+    },
+    {
+      "id": 12,
+      "categoria": "rrhh",
+      "pregunta": "¿Qué perfiles profesionales buscan?",
+      "respuesta": "La empresa busca desarrolladores, analistas de datos, diseñadores UX/UI y especialistas en soporte técnico.",
+      "keywords": ["puestos", "empleo", "trabajo"]
+    },
+    {
+      "id": 13,
+      "categoria": "clientes",
+      "pregunta": "¿Quiénes son sus clientes?",
+      "respuesta": "La empresa trabaja con pequeñas y medianas empresas de diversos sectores comerciales e industriales.",
+      "keywords": ["clientes"]
+    },
+    {
+      "id": 14,
+      "categoria": "clientes",
+      "pregunta": "¿Trabajan con empresas de otras provincias?",
+      "respuesta": "Sí, la empresa presta servicios a clientes de todo el país mediante herramientas remotas.",
+      "keywords": ["provincias", "clientes", "pais"]
+    },
+    {
+      "id": 15,
+      "categoria": "tecnologia",
+      "pregunta": "¿Qué tecnologías utilizan?",
+      "respuesta": "La empresa utiliza Python, JavaScript, React, Node.js, SQL y herramientas de inteligencia artificial.",
+      "keywords": ["tecnologia", "stack", "actividad", "utilizadas"]
+    }
+  ]
+}
