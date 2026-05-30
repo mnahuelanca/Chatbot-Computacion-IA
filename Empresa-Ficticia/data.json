@@ -5,105 +5,113 @@
       "categoria": "empresa",
       "pregunta": "¿Cómo se llama la empresa?",
       "respuesta": "La empresa se llama TechSolutions S.A.",
-      "keywords": ["empresa", "nombre"]
+      "keywords": ["empresa", "nombre", "cómo se llama", "como se llama", "nombre de la empresa", "empresa se llama", "quiénes somos", "quienes somos"]
     },
     {
       "id": 2,
       "categoria": "empresa",
       "pregunta": "¿A qué se dedica la empresa?",
       "respuesta": "TechSolutions S.A. se dedica al desarrollo de software, soporte técnico y consultoría informática.",
-      "keywords": ["actividad", "empresa", "servicios", "dedica", "trata"]
+      "keywords": ["actividad", "empresa", "servicios", "dedica", "trata", "a qué se dedica", "a que se dedica", "qué hace", "que hace", "a qué se dedica la empresa"]
     },
     {
       "id": 3,
       "categoria": "empresa",
       "pregunta": "¿Cuándo fue fundada la empresa?",
       "respuesta": "La empresa fue fundada en el año 2018.",
-      "keywords": ["fundacion", "inicio", "historia"]
+      "keywords": ["fundacion", "inicio", "historia", "fundada", "fundado", "año", "año de fundación", "cuando fue fundada", "cuando fundada"]
     },
     {
       "id": 4,
       "categoria": "empresa",
       "pregunta": "¿Dónde está ubicada la empresa?",
       "respuesta": "La sede principal se encuentra en Buenos Aires, Argentina.",
-      "keywords": ["ubicacion", "direccion", "sede"]
+      "keywords": ["ubicacion", "direccion", "sede", "donde", "dónde", "donde está", "ubicada", "ubicacion de la empresa", "direccion"]
     },
     {
       "id": 5,
       "categoria": "servicios",
       "pregunta": "¿Qué servicios ofrece la empresa?",
       "respuesta": "La empresa ofrece desarrollo web, aplicaciones móviles, soporte técnico, análisis de datos y consultoría IT.",
-      "keywords": ["servicios", "productos"]
+      "keywords": ["servicios", "productos", "qué servicios", "que servicios", "qué ofrecen", "que ofrecen", "ofrecen", "servicios que ofrece"]
     },
     {
       "id": 6,
       "categoria": "servicios",
       "pregunta": "¿Desarrollan aplicaciones móviles?",
       "respuesta": "Sí, la empresa desarrolla aplicaciones móviles para Android e iOS.",
-      "keywords": ["moviles", "apps", "android", "ios"]
+      "keywords": ["moviles", "apps", "android", "ios", "aplicaciones móviles", "aplicaciones moviles", "apps moviles", "apps móviles", "app móvil"]
     },
     {
       "id": 7,
       "categoria": "servicios",
       "pregunta": "¿Realizan desarrollo web?",
       "respuesta": "Sí, la empresa desarrolla sitios web corporativos, e-commerce y sistemas de gestión.",
-      "keywords": ["web", "paginas", "sitios"]
+      "keywords": ["web", "paginas", "sitios", "sitios web", "sitio web", "desarrollo web", "pagina web", "sitio"]
     },
     {
       "id": 8,
       "categoria": "soporte",
       "pregunta": "¿Cuál es el horario de atención?",
       "respuesta": "El horario de atención es de lunes a viernes de 9:00 a 18:00 horas.",
-      "keywords": ["horario", "atencion"]
+      "keywords": ["horario", "atencion", "horarios", "horario de atención", "horas", "horario laboral", "horario de servicio", "horario de atención"]
     },
     {
       "id": 9,
       "categoria": "soporte",
-      "pregunta": "¿Cómo puedo contactar a la empresa?",
-      "respuesta": "Puede comunicarse por correo a contacto@techsolutions.com o por teléfono al 0800-123-4567.",
-      "keywords": ["contacto", "telefono", "correo"]
+      "pregunta": "¿Cuál es el teléfono de la empresa?",
+      "respuesta": "El teléfono de TechSolutions S.A. es 0800-123-4567.",
+      "keywords": ["contacto", "telefono", "teléfono", "telefono de la empresa", "cómo contacto", "como contacto", "cómo puedo contactar", "como puedo contactar"]
+    },
+
+    {
+      "id": 16,
+      "categoria": "soporte",
+      "pregunta": "¿Cuál es el correo de la empresa?",
+      "respuesta": "El correo de TechSolutions S.A. es contacto@techsolutions.com.",
+      "keywords": ["correo", "email", "mail", "correo de la empresa", "email de la empresa", "contacto por correo"]
     },
     {
       "id": 10,
       "categoria": "soporte",
       "pregunta": "¿Ofrecen soporte técnico?",
       "respuesta": "Sí, la empresa brinda soporte técnico remoto y presencial para clientes.",
-      "keywords": ["soporte", "ayuda"]
+      "keywords": ["soporte", "ayuda", "soporte técnico", "asistencia", "servicio tecnico", "servicio técnico"]
     },
     {
       "id": 11,
       "categoria": "rrhh",
       "pregunta": "¿La empresa recibe currículums?",
       "respuesta": "Sí, los currículums pueden enviarse a rrhh@techsolutions.com.",
-      "keywords": ["trabajo", "empleo", "cv"]
+      "keywords": ["trabajo", "empleo", "cv", "curriculum", "currículum", "enviar cv", "enviar curriculum", "postularse", "vacantes"]
     },
     {
       "id": 12,
       "categoria": "rrhh",
       "pregunta": "¿Qué perfiles profesionales buscan?",
       "respuesta": "La empresa busca desarrolladores, analistas de datos, diseñadores UX/UI y especialistas en soporte técnico.",
-      "keywords": ["puestos", "empleo", "trabajo"]
+      "keywords": ["puestos", "empleo", "trabajo", "perfiles", "perfiles profesionales", "qué perfiles", "que perfiles"]
     },
     {
       "id": 13,
       "categoria": "clientes",
       "pregunta": "¿Quiénes son sus clientes?",
       "respuesta": "La empresa trabaja con pequeñas y medianas empresas de diversos sectores comerciales e industriales.",
-      "keywords": ["clientes"]
+      "keywords": ["clientes", "quienes son", "quiénes son", "quienes son sus clientes", "clientes de la empresa", "tipos de clientes"]
     },
     {
       "id": 14,
       "categoria": "clientes",
       "pregunta": "¿Trabajan con empresas de otras provincias?",
       "respuesta": "Sí, la empresa presta servicios a clientes de todo el país mediante herramientas remotas.",
-      "keywords": ["provincias", "clientes", "pais"]
+      "keywords": ["provincias", "clientes", "pais", "país", "trabajan en otras provincias", "clientes en otras provincias"]
     },
     {
       "id": 15,
       "categoria": "tecnologia",
       "pregunta": "¿Qué tecnologías utilizan?",
       "respuesta": "La empresa utiliza Python, JavaScript, React, Node.js, SQL y herramientas de inteligencia artificial.",
-      "keywords": ["tecnologia", "stack", "actividad", "utilizadas"]
+      "keywords": ["tecnologia", "stack", "actividad", "utilizadas", "tecnologías", "tech", "tech stack", "tecnologias utilizadas", "herramientas"]
     }
   ]
 }

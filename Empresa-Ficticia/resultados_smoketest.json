@@ -1,0 +1,14 @@
+{
+  "total": 16,
+  "aciertos": 15,
+  "errores": 1,
+  "porcentaje": 93.75,
+  "detalles": [
+    {
+      "id": 14,
+      "pregunta": "¿Trabajan con empresas de otras provincias?",
+      "esperado": "Sí, la empresa presta servicios a clientes de todo el país mediante herramientas remotas.",
+      "obtenido": "la empresa se llama techsolutions s.a."
+    }
+  ]
+}
