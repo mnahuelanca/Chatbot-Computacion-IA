@@ -5,113 +5,210 @@
       "categoria": "empresa",
       "pregunta": "¿Cómo se llama la empresa?",
       "respuesta": "La empresa se llama TechSolutions S.A.",
-      "keywords": ["empresa", "nombre", "cómo se llama", "como se llama", "nombre de la empresa", "empresa se llama", "quiénes somos", "quienes somos"]
+      "keywords": ["nombre de la empresa", "razon social", "como se llama", "quienes somos", "identidad corporativa"]
     },
     {
       "id": 2,
       "categoria": "empresa",
       "pregunta": "¿A qué se dedica la empresa?",
       "respuesta": "TechSolutions S.A. se dedica al desarrollo de software, soporte técnico y consultoría informática.",
-      "keywords": ["actividad", "empresa", "servicios", "dedica", "trata", "a qué se dedica", "a que se dedica", "qué hace", "que hace", "a qué se dedica la empresa"]
+      "keywords": ["actividad principal", "que hace", "a que se dedica", "rubro", "giro comercial"]
     },
     {
       "id": 3,
       "categoria": "empresa",
       "pregunta": "¿Cuándo fue fundada la empresa?",
       "respuesta": "La empresa fue fundada en el año 2018.",
-      "keywords": ["fundacion", "inicio", "historia", "fundada", "fundado", "año", "año de fundación", "cuando fue fundada", "cuando fundada"]
+      "keywords": ["fundacion", "creacion", "año de inicio", "antigüedad", "cuando abrio", "cuando se creo"]
     },
     {
       "id": 4,
       "categoria": "empresa",
       "pregunta": "¿Dónde está ubicada la empresa?",
       "respuesta": "La sede principal se encuentra en Buenos Aires, Argentina.",
-      "keywords": ["ubicacion", "direccion", "sede", "donde", "dónde", "donde está", "ubicada", "ubicacion de la empresa", "direccion"]
+      "keywords": ["ubicacion", "direccion", "donde queda", "oficina central", "sede", "localizacion"]
     },
     {
       "id": 5,
       "categoria": "servicios",
       "pregunta": "¿Qué servicios ofrece la empresa?",
       "respuesta": "La empresa ofrece desarrollo web, aplicaciones móviles, soporte técnico, análisis de datos y consultoría IT.",
-      "keywords": ["servicios", "productos", "qué servicios", "que servicios", "qué ofrecen", "que ofrecen", "ofrecen", "servicios que ofrece"]
+      "keywords": ["servicios", "productos", "que ofrecen", "portafolio", "soluciones informaticas"]
     },
     {
       "id": 6,
       "categoria": "servicios",
       "pregunta": "¿Desarrollan aplicaciones móviles?",
-      "respuesta": "Sí, la empresa desarrolla aplicaciones móviles para Android e iOS.",
-      "keywords": ["moviles", "apps", "android", "ios", "aplicaciones móviles", "aplicaciones moviles", "apps moviles", "apps móviles", "app móvil"]
+      "respuesta": "Sí, la empresa desarrolla aplicaciones móviles nativas e híbridas para Android e iOS.",
+      "keywords": ["moviles", "apps", "android", "ios", "celulares", "desarrollo mobile"]
     },
     {
       "id": 7,
       "categoria": "servicios",
       "pregunta": "¿Realizan desarrollo web?",
-      "respuesta": "Sí, la empresa desarrolla sitios web corporativos, e-commerce y sistemas de gestión.",
-      "keywords": ["web", "paginas", "sitios", "sitios web", "sitio web", "desarrollo web", "pagina web", "sitio"]
+      "respuesta": "Sí, la empresa desarrolla sitios web corporativos, e-commerce y sistemas de gestión a medida.",
+      "keywords": ["paginas web", "sitios web", "ecommerce", "tienda online", "desarrollo web", "plataformas"]
     },
     {
       "id": 8,
       "categoria": "soporte",
       "pregunta": "¿Cuál es el horario de atención?",
       "respuesta": "El horario de atención es de lunes a viernes de 9:00 a 18:00 horas.",
-      "keywords": ["horario", "atencion", "horarios", "horario de atención", "horas", "horario laboral", "horario de servicio", "horario de atención"]
+      "keywords": ["horario", "atencion", "cuando abren", "dias de atencion", "hora de cierre"]
     },
     {
       "id": 9,
       "categoria": "soporte",
       "pregunta": "¿Cuál es el teléfono de la empresa?",
       "respuesta": "El teléfono de TechSolutions S.A. es 0800-123-4567.",
-      "keywords": ["contacto", "telefono", "teléfono", "telefono de la empresa", "cómo contacto", "como contacto", "cómo puedo contactar", "como puedo contactar"]
-    },
-
-    {
-      "id": 16,
-      "categoria": "soporte",
-      "pregunta": "¿Cuál es el correo de la empresa?",
-      "respuesta": "El correo de TechSolutions S.A. es contacto@techsolutions.com.",
-      "keywords": ["correo", "email", "mail", "correo de la empresa", "email de la empresa", "contacto por correo"]
+      "keywords": ["telefono", "llamar", "linea telefonica", "numero de contacto", "comunicarse por telefono"]
     },
     {
       "id": 10,
       "categoria": "soporte",
       "pregunta": "¿Ofrecen soporte técnico?",
-      "respuesta": "Sí, la empresa brinda soporte técnico remoto y presencial para clientes.",
-      "keywords": ["soporte", "ayuda", "soporte técnico", "asistencia", "servicio tecnico", "servicio técnico"]
+      "respuesta": "Sí, la empresa brinda soporte técnico remoto y presencial para empresas y clientes corporativos.",
+      "keywords": ["soporte tecnico", "ayuda", "asistencia", "mantenimiento", "servicio tecnico"]
     },
     {
       "id": 11,
       "categoria": "rrhh",
       "pregunta": "¿La empresa recibe currículums?",
-      "respuesta": "Sí, los currículums pueden enviarse a rrhh@techsolutions.com.",
-      "keywords": ["trabajo", "empleo", "cv", "curriculum", "currículum", "enviar cv", "enviar curriculum", "postularse", "vacantes"]
+      "respuesta": "Sí, los currículums pueden enviarse al correo oficial de rrhh@techsolutions.com.",
+      "keywords": ["enviar cv", "curriculum", "postularse", "bolsa de trabajo", "dejar cv", "mandar curriculum"]
     },
     {
       "id": 12,
       "categoria": "rrhh",
       "pregunta": "¿Qué perfiles profesionales buscan?",
       "respuesta": "La empresa busca desarrolladores, analistas de datos, diseñadores UX/UI y especialistas en soporte técnico.",
-      "keywords": ["puestos", "empleo", "trabajo", "perfiles", "perfiles profesionales", "qué perfiles", "que perfiles"]
+      "keywords": ["perfiles", "puestos", "vacantes", "tecnologias que buscan", "requisitos para entrar"]
     },
     {
       "id": 13,
       "categoria": "clientes",
       "pregunta": "¿Quiénes son sus clientes?",
       "respuesta": "La empresa trabaja con pequeñas y medianas empresas de diversos sectores comerciales e industriales.",
-      "keywords": ["clientes", "quienes son", "quiénes son", "quienes son sus clientes", "clientes de la empresa", "tipos de clientes"]
+      "keywords": ["clientes", "con quienes trabajan", "publico", "empresas asociadas", "pymes"]
     },
     {
       "id": 14,
       "categoria": "clientes",
       "pregunta": "¿Trabajan con empresas de otras provincias?",
       "respuesta": "Sí, la empresa presta servicios a clientes de todo el país mediante herramientas remotas.",
-      "keywords": ["provincias", "clientes", "pais", "país", "trabajan en otras provincias", "clientes en otras provincias"]
+      "keywords": ["otras provincias", "interior del pais", "federal", "provincias", "cobertura nacional", "distancia"]
     },
     {
       "id": 15,
       "categoria": "tecnologia",
       "pregunta": "¿Qué tecnologías utilizan?",
       "respuesta": "La empresa utiliza Python, JavaScript, React, Node.js, SQL y herramientas de inteligencia artificial.",
-      "keywords": ["tecnologia", "stack", "actividad", "utilizadas", "tecnologías", "tech", "tech stack", "tecnologias utilizadas", "herramientas"]
+      "keywords": ["tecnologias", "stack", "lenguajes", "frameworks", "herramientas de programacion", "codigo"]
+    },
+    {
+      "id": 16,
+      "categoria": "soporte",
+      "pregunta": "¿Cuál es el correo de la empresa?",
+      "respuesta": "El correo de TechSolutions S.A. es contacto@techsolutions.com.",
+      "keywords": ["correo", "email", "mail", "direccion electronica", "escribir un correo"]
+    },
+    {
+      "id": 17,
+      "categoria": "comercial",
+      "pregunta": "¿Cuánto cuestan los servicios o desarrollos?",
+      "respuesta": "Los presupuestos se arman a medida de cada proyecto tras una reunión inicial de consultoría gratuita.",
+      "keywords": ["precios", "costos", "cuanto sale", "presupuesto", "cotizacion", "valor"]
+    },
+    {
+      "id": 18,
+      "categoria": "metodologia",
+      "pregunta": "¿Cómo es la metodología de trabajo?",
+      "respuesta": "Trabajamos utilizando metodologías ágiles (Scrum), garantizando entregas parciales y feedback continuo del cliente.",
+      "keywords": ["metodologia", "forma de trabajo", "scrum", "agiles", "como trabajan", "procesos"]
+    },
+    {
+      "id": 19,
+      "categoria": "rrhh",
+      "pregunta": "¿Ofrecen pasantías o prácticas profesionales?",
+      "respuesta": "Sí, contamos con un programa anual de pasantías para estudiantes de carreras informáticas.",
+      "keywords": ["pasantias", "practicas", "primer empleo", "trainee", "junior", "estudiantes"]
+    },
+    {
+      "id": 20,
+      "categoria": "comercial",
+      "pregunta": "¿Tienen alguna garantía sobre el software desarrollado?",
+      "respuesta": "Sí, todos nuestros desarrollos incluyen un período de garantía de 6 meses ante cualquier error o bug sin costo adicional.",
+      "keywords": ["garantia", "errores", "soporte postventa", "fallas", "seguro de software"]
+    },
+    {
+      "id": 21,
+      "categoria": "seguridad",
+      "pregunta": "¿Cómo garantizan la seguridad de los datos?",
+      "respuesta": "Implementamos cifrado SSL/TLS, buenas prácticas de desarrollo según OWASP y almacenamiento seguro en bases de datos con accesos restringidos.",
+      "keywords": ["seguridad", "cifrado", "encriptacion", "proteger datos", "hackeos", "seguro", "owasp"]
+    },
+    {
+      "id": 22,
+      "categoria": "comercial",
+      "pregunta": "¿Cuáles son las formas de pago disponibles?",
+      "respuesta": "Aceptamos transferencias bancarias, pagos con tarjetas de crédito mediante pasarelas de pago seguras y contratos de servicios mensuales.",
+      "keywords": ["formas de pago", "pagar", "facturacion", "tarjeta", "transferencia", "abono", "cuotas"]
+    },
+    {
+      "id": 23,
+      "categoria": "metodologia",
+      "pregunta": "¿El cliente puede ver el avance del proyecto?",
+      "respuesta": "Sí, realizamos reuniones de demostración al finalizar cada sprint (generalmente cada 2 semanas) y otorgamos acceso a un entorno de pruebas.",
+      "keywords": ["avances", "ver progreso", "sprint", "demostracion", "entorno de pruebas", "seguimiento", "reuniones"]
+    },
+    {
+      "id": 24,
+      "categoria": "tecnologia",
+      "pregunta": "¿Trabajan con infraestructura en la nube?",
+      "respuesta": "Sí, diseñamos y desplegamos aplicaciones utilizando servicios Cloud como AWS, Google Cloud y Vercel para garantizar escalabilidad.",
+      "keywords": ["nube", "cloud", "aws", "google cloud", "vercel", "servidores", "hosting"]
+    },
+    {
+      "id": 25,
+      "categoria": "soporte",
+      "pregunta": "¿Qué pasa si el sistema se cae fuera del horario laboral?",
+      "respuesta": "Para clientes con planes de soporte crítico, contamos con una guardia técnica activa las 24 horas, los 7 días de la semana.",
+      "keywords": ["guardia", "24/7", "emergencia", "se cayo el sistema", "fuera de hora", "soporte critico", "urgente"]
+    },
+    {
+      "id": 26,
+      "categoria": "clientes",
+      "pregunta": "¿Pueden firmar un acuerdo de confidencialidad (NDA)?",
+      "respuesta": "Por supuesto. Antes de revisar cualquier idea o código de nuestros clientes, firmamos un Acuerdo de No Divulgación (NDA) para proteger su propiedad intelectual.",
+      "keywords": ["nda", "confidencialidad", "acuerdo de confidencialidad", "propiedad intelectual", "contrato secreto", "privacidad"]
+    },
+    {
+      "id": 27,
+      "categoria": "servicios",
+      "pregunta": "¿Realizan diseño de interfaces o solo programación?",
+      "respuesta": "Ofrecemos el servicio completo: desde el diseño de experiencia de usuario (UX) e interfaces visuales (UI) en Figma, hasta el desarrollo del código final.",
+      "keywords": ["diseño", "ux", "ui", "figma", "interfaces", "diseñador", "maquetado"]
+    },
+    {
+      "id": 28,
+      "categoria": "empresa",
+      "pregunta": "¿Tienen oficinas físicas para reuniones?",
+      "respuesta": "Nuestro equipo trabaja de forma remota, pero disponemos de espacios de co-working en Buenos Aires para reuniones presenciales programadas.",
+      "keywords": ["oficina fisica", "reunion presencial", "coworking", "visitar", "oficinas"]
+    },
+    {
+      "id": 29,
+      "categoria": "tecnologia",
+      "pregunta": "¿Pueden actualizar un sistema viejo o antiguo?",
+      "respuesta": "Sí, realizamos auditorías de código y procesos de migración tecnológica (refactorización) para modernizar software obsoleto.",
+      "keywords": ["sistema viejo", "actualizar", "migracion", "software antiguo", "modernizar", "refactorizacion", "codigo viejo"]
+    },
+    {
+      "id": 30,
+      "categoria": "rrhh",
+      "pregunta": "¿Cuáles son los valores o cultura de la empresa?",
+      "respuesta": "Nos basamos en la transparencia, la innovación constante, el trabajo en equipo colaborativo y el equilibrio entre la vida laboral y personal.",
+      "keywords": ["valores", "cultura", "filosofia", "mision", "vision", "ambiente laboral"]
     }
   ]
 }

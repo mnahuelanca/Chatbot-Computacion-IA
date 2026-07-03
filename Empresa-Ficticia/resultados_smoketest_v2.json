@@ -1,0 +1,244 @@
+{
+  "total": 30,
+  "hits": 26,
+  "errors": 4,
+  "score": 86.67,
+  "failures": [
+    {
+      "id": 3,
+      "pregunta": "¿Cuándo fue fundada la empresa?",
+      "esperado": "La empresa fue fundada en el año 2018.",
+      "obtenido": "Por supuesto. Antes de revisar cualquier idea o código de nuestros clientes, firmamos un Acuerdo de No Divulgación (NDA) para proteger su propiedad intelectual."
+    },
+    {
+      "id": 17,
+      "pregunta": "¿Cuánto cuestan los servicios o desarrollos?",
+      "esperado": "Los presupuestos se arman a medida de cada proyecto tras una reunión inicial de consultoría gratuita.",
+      "obtenido": "La empresa ofrece desarrollo web, aplicaciones móviles, soporte técnico, análisis de datos y consultoría IT."
+    },
+    {
+      "id": 25,
+      "pregunta": "¿Qué pasa si el sistema se cae fuera del horario laboral?",
+      "esperado": "Para clientes con planes de soporte crítico, contamos con una guardia técnica activa las 24 horas, los 7 días de la semana.",
+      "obtenido": "El horario de atención es de lunes a viernes de 9:00 a 18:00 horas."
+    },
+    {
+      "id": 28,
+      "pregunta": "¿Tienen oficinas físicas para reuniones?",
+      "esperado": "Nuestro equipo trabaja de forma remota, pero disponemos de espacios de co-working en Buenos Aires para reuniones presenciales programadas.",
+      "obtenido": "Sí, realizamos reuniones de demostración al finalizar cada sprint (generalmente cada 2 semanas) y otorgamos acceso a un entorno de pruebas."
+    }
+  ],
+  "results": [
+    {
+      "id": 1,
+      "pregunta": "¿Cómo se llama la empresa?",
+      "esperado": "La empresa se llama TechSolutions S.A.",
+      "obtenido": "La empresa se llama TechSolutions S.A.",
+      "correcto": true
+    },
+    {
+      "id": 2,
+      "pregunta": "¿A qué se dedica la empresa?",
+      "esperado": "TechSolutions S.A. se dedica al desarrollo de software, soporte técnico y consultoría informática.",
+      "obtenido": "TechSolutions S.A. se dedica al desarrollo de software, soporte técnico y consultoría informática.",
+      "correcto": true
+    },
+    {
+      "id": 3,
+      "pregunta": "¿Cuándo fue fundada la empresa?",
+      "esperado": "La empresa fue fundada en el año 2018.",
+      "obtenido": "Por supuesto. Antes de revisar cualquier idea o código de nuestros clientes, firmamos un Acuerdo de No Divulgación (NDA) para proteger su propiedad intelectual.",
+      "correcto": false
+    },
+    {
+      "id": 4,
+      "pregunta": "¿Dónde está ubicada la empresa?",
+      "esperado": "La sede principal se encuentra en Buenos Aires, Argentina.",
+      "obtenido": "La sede principal se encuentra en Buenos Aires, Argentina.",
+      "correcto": true
+    },
+    {
+      "id": 5,
+      "pregunta": "¿Qué servicios ofrece la empresa?",
+      "esperado": "La empresa ofrece desarrollo web, aplicaciones móviles, soporte técnico, análisis de datos y consultoría IT.",
+      "obtenido": "La empresa ofrece desarrollo web, aplicaciones móviles, soporte técnico, análisis de datos y consultoría IT.",
+      "correcto": true
+    },
+    {
+      "id": 6,
+      "pregunta": "¿Desarrollan aplicaciones móviles?",
+      "esperado": "Sí, la empresa desarrolla aplicaciones móviles nativas e híbridas para Android e iOS.",
+      "obtenido": "Sí, la empresa desarrolla aplicaciones móviles nativas e híbridas para Android e iOS.",
+      "correcto": true
+    },
+    {
+      "id": 7,
+      "pregunta": "¿Realizan desarrollo web?",
+      "esperado": "Sí, la empresa desarrolla sitios web corporativos, e-commerce y sistemas de gestión a medida.",
+      "obtenido": "Sí, la empresa desarrolla sitios web corporativos, e-commerce y sistemas de gestión a medida.",
+      "correcto": true
+    },
+    {
+      "id": 8,
+      "pregunta": "¿Cuál es el horario de atención?",
+      "esperado": "El horario de atención es de lunes a viernes de 9:00 a 18:00 horas.",
+      "obtenido": "El horario de atención es de lunes a viernes de 9:00 a 18:00 horas.",
+      "correcto": true
+    },
+    {
+      "id": 9,
+      "pregunta": "¿Cuál es el teléfono de la empresa?",
+      "esperado": "El teléfono de TechSolutions S.A. es 0800-123-4567.",
+      "obtenido": "El teléfono de TechSolutions S.A. es 0800-123-4567.",
+      "correcto": true
+    },
+    {
+      "id": 10,
+      "pregunta": "¿Ofrecen soporte técnico?",
+      "esperado": "Sí, la empresa brinda soporte técnico remoto y presencial para empresas y clientes corporativos.",
+      "obtenido": "Sí, la empresa brinda soporte técnico remoto y presencial para empresas y clientes corporativos.",
+      "correcto": true
+    },
+    {
+      "id": 11,
+      "pregunta": "¿La empresa recibe currículums?",
+      "esperado": "Sí, los currículums pueden enviarse al correo oficial de rrhh@techsolutions.com.",
+      "obtenido": "Sí, los currículums pueden enviarse al correo oficial de rrhh@techsolutions.com.",
+      "correcto": true
+    },
+    {
+      "id": 12,
+      "pregunta": "¿Qué perfiles profesionales buscan?",
+      "esperado": "La empresa busca desarrolladores, analistas de datos, diseñadores UX/UI y especialistas en soporte técnico.",
+      "obtenido": "La empresa busca desarrolladores, analistas de datos, diseñadores UX/UI y especialistas en soporte técnico.",
+      "correcto": true
+    },
+    {
+      "id": 13,
+      "pregunta": "¿Quiénes son sus clientes?",
+      "esperado": "La empresa trabaja con pequeñas y medianas empresas de diversos sectores comerciales e industriales.",
+      "obtenido": "La empresa trabaja con pequeñas y medianas empresas de diversos sectores comerciales e industriales.",
+      "correcto": true
+    },
+    {
+      "id": 14,
+      "pregunta": "¿Trabajan con empresas de otras provincias?",
+      "esperado": "Sí, la empresa presta servicios a clientes de todo el país mediante herramientas remotas.",
+      "obtenido": "Sí, la empresa presta servicios a clientes de todo el país mediante herramientas remotas.",
+      "correcto": true
+    },
+    {
+      "id": 15,
+      "pregunta": "¿Qué tecnologías utilizan?",
+      "esperado": "La empresa utiliza Python, JavaScript, React, Node.js, SQL y herramientas de inteligencia artificial.",
+      "obtenido": "La empresa utiliza Python, JavaScript, React, Node.js, SQL y herramientas de inteligencia artificial.",
+      "correcto": true
+    },
+    {
+      "id": 16,
+      "pregunta": "¿Cuál es el correo de la empresa?",
+      "esperado": "El correo de TechSolutions S.A. es contacto@techsolutions.com.",
+      "obtenido": "El correo de TechSolutions S.A. es contacto@techsolutions.com.",
+      "correcto": true
+    },
+    {
+      "id": 17,
+      "pregunta": "¿Cuánto cuestan los servicios o desarrollos?",
+      "esperado": "Los presupuestos se arman a medida de cada proyecto tras una reunión inicial de consultoría gratuita.",
+      "obtenido": "La empresa ofrece desarrollo web, aplicaciones móviles, soporte técnico, análisis de datos y consultoría IT.",
+      "correcto": false
+    },
+    {
+      "id": 18,
+      "pregunta": "¿Cómo es la metodología de trabajo?",
+      "esperado": "Trabajamos utilizando metodologías ágiles (Scrum), garantizando entregas parciales y feedback continuo del cliente.",
+      "obtenido": "Trabajamos utilizando metodologías ágiles (Scrum), garantizando entregas parciales y feedback continuo del cliente.",
+      "correcto": true
+    },
+    {
+      "id": 19,
+      "pregunta": "¿Ofrecen pasantías o prácticas profesionales?",
+      "esperado": "Sí, contamos con un programa anual de pasantías para estudiantes de carreras informáticas.",
+      "obtenido": "Sí, contamos con un programa anual de pasantías para estudiantes de carreras informáticas.",
+      "correcto": true
+    },
+    {
+      "id": 20,
+      "pregunta": "¿Tienen alguna garantía sobre el software desarrollado?",
+      "esperado": "Sí, todos nuestros desarrollos incluyen un período de garantía de 6 meses ante cualquier error o bug sin costo adicional.",
+      "obtenido": "Sí, todos nuestros desarrollos incluyen un período de garantía de 6 meses ante cualquier error o bug sin costo adicional.",
+      "correcto": true
+    },
+    {
+      "id": 21,
+      "pregunta": "¿Cómo garantizan la seguridad de los datos?",
+      "esperado": "Implementamos cifrado SSL/TLS, buenas prácticas de desarrollo según OWASP y almacenamiento seguro en bases de datos con accesos restringidos.",
+      "obtenido": "Implementamos cifrado SSL/TLS, buenas prácticas de desarrollo según OWASP y almacenamiento seguro en bases de datos con accesos restringidos.",
+      "correcto": true
+    },
+    {
+      "id": 22,
+      "pregunta": "¿Cuáles son las formas de pago disponibles?",
+      "esperado": "Aceptamos transferencias bancarias, pagos con tarjetas de crédito mediante pasarelas de pago seguras y contratos de servicios mensuales.",
+      "obtenido": "Aceptamos transferencias bancarias, pagos con tarjetas de crédito mediante pasarelas de pago seguras y contratos de servicios mensuales.",
+      "correcto": true
+    },
+    {
+      "id": 23,
+      "pregunta": "¿El cliente puede ver el avance del proyecto?",
+      "esperado": "Sí, realizamos reuniones de demostración al finalizar cada sprint (generalmente cada 2 semanas) y otorgamos acceso a un entorno de pruebas.",
+      "obtenido": "Sí, realizamos reuniones de demostración al finalizar cada sprint (generalmente cada 2 semanas) y otorgamos acceso a un entorno de pruebas.",
+      "correcto": true
+    },
+    {
+      "id": 24,
+      "pregunta": "¿Trabajan con infraestructura en la nube?",
+      "esperado": "Sí, diseñamos y desplegamos aplicaciones utilizando servicios Cloud como AWS, Google Cloud y Vercel para garantizar escalabilidad.",
+      "obtenido": "Sí, diseñamos y desplegamos aplicaciones utilizando servicios Cloud como AWS, Google Cloud y Vercel para garantizar escalabilidad.",
+      "correcto": true
+    },
+    {
+      "id": 25,
+      "pregunta": "¿Qué pasa si el sistema se cae fuera del horario laboral?",
+      "esperado": "Para clientes con planes de soporte crítico, contamos con una guardia técnica activa las 24 horas, los 7 días de la semana.",
+      "obtenido": "El horario de atención es de lunes a viernes de 9:00 a 18:00 horas.",
+      "correcto": false
+    },
+    {
+      "id": 26,
+      "pregunta": "¿Pueden firmar un acuerdo de confidencialidad (NDA)?",
+      "esperado": "Por supuesto. Antes de revisar cualquier idea o código de nuestros clientes, firmamos un Acuerdo de No Divulgación (NDA) para proteger su propiedad intelectual.",
+      "obtenido": "Por supuesto. Antes de revisar cualquier idea o código de nuestros clientes, firmamos un Acuerdo de No Divulgación (NDA) para proteger su propiedad intelectual.",
+      "correcto": true
+    },
+    {
+      "id": 27,
+      "pregunta": "¿Realizan diseño de interfaces o solo programación?",
+      "esperado": "Ofrecemos el servicio completo: desde el diseño de experiencia de usuario (UX) e interfaces visuales (UI) en Figma, hasta el desarrollo del código final.",
+      "obtenido": "Ofrecemos el servicio completo: desde el diseño de experiencia de usuario (UX) e interfaces visuales (UI) en Figma, hasta el desarrollo del código final.",
+      "correcto": true
+    },
+    {
+      "id": 28,
+      "pregunta": "¿Tienen oficinas físicas para reuniones?",
+      "esperado": "Nuestro equipo trabaja de forma remota, pero disponemos de espacios de co-working en Buenos Aires para reuniones presenciales programadas.",
+      "obtenido": "Sí, realizamos reuniones de demostración al finalizar cada sprint (generalmente cada 2 semanas) y otorgamos acceso a un entorno de pruebas.",
+      "correcto": false
+    },
+    {
+      "id": 29,
+      "pregunta": "¿Pueden actualizar un sistema viejo o antiguo?",
+      "esperado": "Sí, realizamos auditorías de código y procesos de migración tecnológica (refactorización) para modernizar software obsoleto.",
+      "obtenido": "Sí, realizamos auditorías de código y procesos de migración tecnológica (refactorización) para modernizar software obsoleto.",
+      "correcto": true
+    },
+    {
+      "id": 30,
+      "pregunta": "¿Cuáles son los valores o cultura de la empresa?",
+      "esperado": "Nos basamos en la transparencia, la innovación constante, el trabajo en equipo colaborativo y el equilibrio entre la vida laboral y personal.",
+      "obtenido": "Nos basamos en la transparencia, la innovación constante, el trabajo en equipo colaborativo y el equilibrio entre la vida laboral y personal.",
+      "correcto": true
+    }
+  ]
+}

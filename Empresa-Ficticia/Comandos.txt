@@ -1,0 +1,15 @@
+VIRTUALIZACION
+	python -m venv venv
+	source venv/Scripts/activate
+
+
+GUI STREAMLIT
+	python -m streamlit run GUI.py
+
+TENSORFLOW (ejecutar con 3.12)
+
+	py -3.12 mi_script.py
+
+FLASK
+	python Empresa-Ficticia/app.py --serve
+	python app.py --serve

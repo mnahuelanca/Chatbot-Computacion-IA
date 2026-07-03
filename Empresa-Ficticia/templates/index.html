@@ -2,19 +2,76 @@
 <html lang="es">
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <title>Chat - TechSolutions</title>
-    <link rel="stylesheet" href="/static/style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Dashboard Comparativo - Chatbot V2.0</title>
+    <link rel="stylesheet" href="/static/style.css" />
   </head>
   <body>
-    <div class="chat-container">
-      <h2>Asistente TechSolutions</h2>
-      <div id="messages" class="messages"></div>
-      <div class="composer">
-        <input id="input" placeholder="Escribe tu pregunta..." />
-        <button id="send">Enviar</button>
-      </div>
+    <div class="app-shell">
+      <header class="app-header">
+        <div>
+          <p class="eyebrow">Dashboard</p>
+          <h1>Comparativo Chatbot V1.0 vs V2.0</h1>
+          <p class="subtitle">Monitoriza KPIs clave y prueba el asistente en tiempo real.</p>
+        </div>
+      </header>
+
+      <main class="dashboard-grid">
+        <section class="panel metrics-panel">
+          <div class="panel-header">
+            <div>
+              <p class="panel-label">Métricas</p>
+              <h2>Comparación de versiones</h2>
+            </div>
+            <span class="badge">Versión actual: V2.0</span>
+          </div>
+
+          <div class="kpi-cards">
+            <article class="kpi-card">
+              <p class="kpi-title">Preguntas en Base de Datos</p>
+              <p class="kpi-value">V1.0: 16</p>
+              <p class="kpi-value highlight">V2.0: 30</p>
+            </article>
+            <article class="kpi-card">
+              <p class="kpi-title">Resultados Smoke Test</p>
+              <p class="kpi-value">V1.0: 93.75% (15/16)</p>
+              <p class="kpi-value highlight" id="v2-score">Cargando...</p>
+            </article>
+          </div>
+
+          <div class="summary-card">
+            <h3>Detalle clave</h3>
+            <ul>
+              <li>V1.0 falló en <strong>ID 14</strong> por una colisión en la keyword <strong>"empresa"</strong>.</li>
+              <li>V2.0 extiende la base a 30 preguntas para cubrir información de empresa, servicios, soporte, RRHH y tecnología.</li>
+              <li>El nuevo panel usa diseño con CSS Grid y tipografía clara.</li>
+            </ul>
+          </div>
+
+          <div class="smoke-summary">
+            <h3>Último smoke test</h3>
+            <p id="v2-detail">Cargando resultados del test automático...</p>
+          </div>
+        </section>
+
+        <section class="panel chat-panel">
+          <div class="chat-app">
+            <div class="panel-header chat-header">
+              <div>
+                <p class="panel-label">Simulador</p>
+                <h2>Prueba el bot en vivo</h2>
+              </div>
+            </div>
+            <div id="messages" class="messages"></div>
+            <div class="composer">
+              <input id="input" placeholder="Escribe tu pregunta..." autocomplete="off" />
+              <button id="send">Enviar</button>
+            </div>
+          </div>
+        </section>
+      </main>
     </div>
+
     <script src="/static/script.js"></script>
   </body>
 </html>

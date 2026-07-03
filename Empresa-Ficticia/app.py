@@ -14,18 +14,18 @@ def cargar_datos(archivo):
     ruta = os.path.join(os.path.dirname(__file__), archivo)
     with open(ruta, 'r', encoding='utf-8') as f:
         data = json.load(f)
-        return data['data']  # Accedemos a la lista dentro de la clave 'data'
+        return data['data']
 
-# 2. Función para normalizar texto (quita tildes y pasa a minúsculas)
+# 2. Función para normalizar texto
 def normalizar(texto):
     texto = texto.lower()
     texto = unicodedata.normalize('NFD', texto).encode('ascii', 'ignore').decode('utf-8')
     return texto
 
-# 3. Lógica del modelo NLU
+# 3. Lógica del modelo NLU (Comprensión del lenguaje natural)
 def obtener_respuesta(user_input, base_datos):
     input_limpio = normalizar(user_input)
-    # Scoring: contar coincidencias de keywords por entrada y elegir la de mayor puntaje
+    # Scoring
     best_item = None
     best_score = 0
 
@@ -42,7 +42,7 @@ def obtener_respuesta(user_input, base_datos):
     if best_score > 0 and best_item:
         return best_item['respuesta']
 
-    # Fallback: buscar la pregunta más parecida por similitud de texto
+    # Buscar la pregunta más parecida por similitud de texto
     preguntas = [normalizar(item['pregunta']) for item in base_datos]
     matches = difflib.get_close_matches(input_limpio, preguntas, n=1, cutoff=0.6)
     if matches:
@@ -70,6 +70,33 @@ if Flask:
         message = payload.get('message', '')
         respuesta = obtener_respuesta(message, datos)
         return jsonify({'response': respuesta})
+
+    @app.route('/smoke', methods=['GET'])
+    def smoke_summary():
+        hits = 0
+        failures = []
+        for item in datos:
+            pregunta = item.get('pregunta', '')
+            respuesta_esperada = item.get('respuesta', '')
+            respuesta_obtenida = obtener_respuesta(pregunta, datos)
+            if respuesta_obtenida == respuesta_esperada:
+                hits += 1
+            else:
+                failures.append({
+                    'id': item.get('id'),
+                    'pregunta': pregunta,
+                    'esperado': respuesta_esperada,
+                    'obtenido': respuesta_obtenida
+                })
+        total = len(datos)
+        score = round(hits / total * 100, 2) if total else 0.0
+        return jsonify({
+            'total': total,
+            'hits': hits,
+            'errors': len(failures),
+            'score': score,
+            'failures': failures
+        })
 
 if __name__ == "__main__":
     # CLI por defecto; si se pasa '--serve', arranca el servidor web (requiere Flask)
